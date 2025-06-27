@@ -1,4 +1,7 @@
 # bookmarks
+# DBA
+## Kafka
+https://habr.com/ru/companies/ozontech/articles/910568/
 # Infra
 ## Kubevirt
 https://habr.com/ru/companies/flant/articles/915942/
