@@ -26,6 +26,7 @@
 [Using FlameGraph with perf by Brendan Gregg](https://github.com/brendangregg/FlameGraph) <br>
 ## Victoria Metrics
 [VictoriaMetrics рассчёты и оптимизация](https://habr.com/ru/companies/t2/articles/922168/) <br>
+[vmgateway - лимитировать запросы конкретного пользака из графаны](https://docs.victoriametrics.com/victoriametrics/vmgateway/) <br>
 ## Prometheus
 [Analysis Prometheus memory usage](https://www.robustperception.io/analysing-prometheus-memory-usage/) <br>
 [How much RAM does Prometheus 2.x need for cardinality and ingestion?](https://www.robustperception.io/how-much-ram-does-prometheus-2-x-need-for-cardinality-and-ingestion/) <br>
