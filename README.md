@@ -22,4 +22,5 @@ https://habr.com/ru/companies/runity/articles/921288/
 ## Victoria Metrics
 [VictoriaMetrics рассчёты и оптимизация](https://habr.com/ru/companies/t2/articles/922168/)
 ## Prometheus
+[Analysis Prometheus memory usage](https://www.robustperception.io/analysing-prometheus-memory-usage/)
 [How much RAM does Prometheus 2.x need for cardinality and ingestion?](https://www.robustperception.io/how-much-ram-does-prometheus-2-x-need-for-cardinality-and-ingestion/)
