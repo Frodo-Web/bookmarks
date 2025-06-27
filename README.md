@@ -1,16 +1,16 @@
 # bookmarks
 # DBA
 ## Kafka
-https://habr.com/ru/companies/ozontech/articles/910568/
+[Kafka: ребалансировка изнутри](https://habr.com/ru/companies/ozontech/articles/910568/) <br>
 # Infra
 ## Kubevirt
-https://habr.com/ru/companies/flant/articles/915942/
+[KubeVirt: глубокое погружение для администраторов VMware vSphere](https://habr.com/ru/companies/flant/articles/915942/) <br>
 ## Containers
 ### LXC
-[Туториал по контейнеризации при помощи LXC](https://eax.me/lxc/)
+[Туториал по контейнеризации при помощи LXC](https://eax.me/lxc/) <br>
 # Storage
 ## Ceph
-https://habr.com/ru/companies/runity/articles/921288/
+[Растянутый кластер Ceph: основные концепции. Часть 1](https://habr.com/ru/companies/runity/articles/921288/) <br>
 # O11y
 ## eBPF
 [eBPF developer tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial/tree/main) <br>
@@ -19,9 +19,9 @@ https://habr.com/ru/companies/runity/articles/921288/
 [Обнаружение шумных соседей с eBPF](https://habr.com/ru/companies/wunderfund/articles/859978/) <br>
 [Покоряем сетевой стек Linux: декапсулируем пакеты с помощью eBPF на скорости 6Mpps+](https://habr.com/ru/companies/selectel/articles/901186/) <br>
 ## Tracing
-[Using FlameGraph with perf by Brendan Gregg](https://github.com/brendangregg/FlameGraph)
+[Using FlameGraph with perf by Brendan Gregg](https://github.com/brendangregg/FlameGraph) <br>
 ## Victoria Metrics
-[VictoriaMetrics рассчёты и оптимизация](https://habr.com/ru/companies/t2/articles/922168/)
+[VictoriaMetrics рассчёты и оптимизация](https://habr.com/ru/companies/t2/articles/922168/) <br>
 ## Prometheus
 [Analysis Prometheus memory usage](https://www.robustperception.io/analysing-prometheus-memory-usage/) <br>
 [How much RAM does Prometheus 2.x need for cardinality and ingestion?](https://www.robustperception.io/how-much-ram-does-prometheus-2-x-need-for-cardinality-and-ingestion/) <br>
