@@ -13,6 +13,7 @@ https://habr.com/ru/companies/flant/articles/915942/
 https://habr.com/ru/companies/runity/articles/921288/
 # O11y
 ## eBPF
+[eBPF developer tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial/tree/main) <br>
 [Whole-system, Cross-language OpenTelemetry eBPF profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) <br>
 [Distributed bpftrace tracing with pixie](https://blog.px.dev/distributed-bpftrace/) <br>
 [Обнаружение шумных соседей с eBPF](https://habr.com/ru/companies/wunderfund/articles/859978/) <br>
