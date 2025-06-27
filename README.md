@@ -18,6 +18,7 @@
 [eBPF developer tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial/tree/main) <br>
 [Whole-system, Cross-language OpenTelemetry eBPF profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) <br>
 [bpfman - bpfman-agent как daemonset, bpfman-operator, ebpf программы как CRDs](https://bpfman.io/v0.5.4/quick-start/) <br>
+[Network Observability eBPF Agent -  allows collecting and aggregating all the ingress and egress flows on a Linux host](https://github.com/netobserv/netobserv-ebpf-agent) <br>
 [Distributed bpftrace tracing with pixie](https://blog.px.dev/distributed-bpftrace/) <br>
 [Обнаружение шумных соседей с eBPF](https://habr.com/ru/companies/wunderfund/articles/859978/) <br>
 [Покоряем сетевой стек Linux: декапсулируем пакеты с помощью eBPF на скорости 6Mpps+](https://habr.com/ru/companies/selectel/articles/901186/) <br>
