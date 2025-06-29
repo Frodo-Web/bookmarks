@@ -22,6 +22,7 @@
 [Distributed bpftrace tracing with pixie](https://blog.px.dev/distributed-bpftrace/) <br>
 [Обнаружение шумных соседей с eBPF](https://habr.com/ru/companies/wunderfund/articles/859978/) <br>
 [Покоряем сетевой стек Linux: декапсулируем пакеты с помощью eBPF на скорости 6Mpps+](https://habr.com/ru/companies/selectel/articles/901186/) <br>
+[Катран - балансер 4го уровня на XDP, линейное масштабирование NIC RX, VIP расширяется как IP, Protocol, port ](https://github.com/facebookincubator/katran/tree/main) <br>
 ## Tracing
 [Using FlameGraph with perf by Brendan Gregg](https://github.com/brendangregg/FlameGraph) <br>
 ## Victoria Metrics
