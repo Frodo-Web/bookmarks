@@ -26,6 +26,8 @@
 [Катран - балансер 4го уровня на XDP, линейное масштабирование NIC RX, VIP расширяется как IP, Protocol, port ](https://github.com/facebookincubator/katran/tree/main) <br>
 ## Tracing
 [Using FlameGraph with perf by Brendan Gregg](https://github.com/brendangregg/FlameGraph) <br>
+## Metrics
+[Statsd - Streaming aggregation daemon. Получает метрики на вход и отправляет в различные бекенды. Есть множество альтернативных решений на других ЯП в репе](https://github.com/statsd/statsd/tree/master) <br>
 ## Victoria Metrics
 [VictoriaMetrics рассчёты и оптимизация](https://habr.com/ru/companies/t2/articles/922168/) <br>
 [vmgateway - лимитировать запросы конкретного пользака из графаны](https://docs.victoriametrics.com/victoriametrics/vmgateway/) <br>
