@@ -1,4 +1,6 @@
 # bookmarks
+# Архитектура и Дизайн
+[Издержки микросервисов, которые ваш стартап может не потянуть](https://habr.com/ru/companies/ruvds/articles/909548/) <br>
 # Languages
 ## Golang
 [Диагностика с помощью pprof в Golang](https://habr.com/ru/articles/918738/) <br>
