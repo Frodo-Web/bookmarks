@@ -1,4 +1,7 @@
 # bookmarks
+# Languages
+## Golang
+[Диагностика с помощью pprof в Golang](https://habr.com/ru/articles/918738/) <br>
 # DBA
 ## Kafka
 [Kafka: ребалансировка изнутри](https://habr.com/ru/companies/ozontech/articles/910568/) <br>
