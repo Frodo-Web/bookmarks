@@ -15,6 +15,7 @@
 [Растянутый кластер Ceph: основные концепции. Часть 1](https://habr.com/ru/companies/runity/articles/921288/) <br>
 # O11y
 ## OpenTelemetry
+[otel-desktop-viewer - локально смотреть данные otel-collector, и можно через otel-cli работать](https://github.com/CtrlSpice/otel-desktop-viewer) <br>
 [OpenTelemetry - Injecting Auto-Instrumentation in K8S with otel-operator](https://opentelemetry.io/docs/platforms/kubernetes/operator/automatic/) <br>
 [Put NGINX between two services и сбор OpenTelemetry трейсов](https://opentelemetry.io/blog/2022/instrument-nginx/) <br>
 [Sending Telemetry to (& rehydrating from) AWS S3 with the OTel Collector](https://www.controltheory.com/resources/sending-telemetry-data-to-and-rehydrating-from-aws-s3-using-the-otel-collector/) <br>
