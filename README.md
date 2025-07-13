@@ -4,6 +4,7 @@
 [Базы данных. Как выбрать идеальное решение? Полный гид по SQL, NoSQL и не только](https://habr.com/ru/articles/922748/) <br>
 [Распределённая трассировка с Jaeger и Clickhouse](https://habr.com/ru/companies/oleg-bunin/articles/814877/) <br>
 [System Design для начинающих: всё что вам нужно. Часть 1](https://habr.com/ru/articles/873388/) <br>
+[Топ 10 заповедей системного дизайна](https://habr.com/ru/articles/915376/) <br>
 # Languages
 ## Golang
 [Диагностика с помощью pprof в Golang](https://habr.com/ru/articles/918738/) <br>
