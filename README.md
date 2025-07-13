@@ -20,6 +20,7 @@
 [Sending Telemetry to (& rehydrating from) AWS S3 with the OTel Collector](https://www.controltheory.com/resources/sending-telemetry-data-to-and-rehydrating-from-aws-s3-using-the-otel-collector/) <br>
 [Внедрение OpenTelemetry в NAV, Автоинструментация, трудности](https://habr.com/ru/companies/flant/articles/845332/) <br>
 [Convert OpenTelemetry Traces to Metrics with SpanMetrics](https://last9.io/blog/convert-opentelemetry-traces-to-metrics-using-spanconnector/) <br>
+[Мониторинг бизнес процессов с помощью OpenTelemetry](https://habr.com/ru/companies/oleg-bunin/articles/865690/) <br>
 ## eBPF
 [eBPF developer tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial/tree/main) <br>
 [Whole-system, Cross-language OpenTelemetry eBPF profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) <br>
