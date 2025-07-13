@@ -24,6 +24,7 @@
 [Мониторинг бизнес процессов с помощью OpenTelemetry](https://habr.com/ru/companies/oleg-bunin/articles/865690/) <br>
 [Трассировка OpenTelemetry в 200 строк кода](https://habr.com/ru/companies/beget/articles/844956/) <br>
 [otel-collector gateway design](https://opentelemetry.io/docs/collector/deployment/gateway/) <br>
+[Опыт внедрения otel-collector - otel-col в виде agent и agent app](https://habr.com/ru/articles/919214/) <br>
 ## eBPF
 [eBPF developer tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial/tree/main) <br>
 [Whole-system, Cross-language OpenTelemetry eBPF profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) <br>
