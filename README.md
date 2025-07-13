@@ -14,6 +14,9 @@
 ## Ceph
 [Растянутый кластер Ceph: основные концепции. Часть 1](https://habr.com/ru/companies/runity/articles/921288/) <br>
 # O11y
+## OpenTelemetry
+[OpenTelemetry - Injecting Auto-Instrumentation in K8S with otel-operator](https://opentelemetry.io/docs/platforms/kubernetes/operator/automatic/) <br>
+[Put NGINX between two services и сбор OpenTelemetry трейсов](https://opentelemetry.io/blog/2022/instrument-nginx/) <br>
 ## eBPF
 [eBPF developer tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial/tree/main) <br>
 [Whole-system, Cross-language OpenTelemetry eBPF profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) <br>
