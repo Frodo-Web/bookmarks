@@ -32,6 +32,7 @@
 [otel-collector gateway design](https://opentelemetry.io/docs/collector/deployment/gateway/) <br>
 [Опыт внедрения otel-collector - otel-col в виде agent и agent app](https://habr.com/ru/articles/919214/) <br>
 [otel-collector benchmarks](https://opentelemetry.io/docs/collector/benchmarks/) <br>
+[Измерение аудитории блога с помощью OpenTelemetry](https://habr.com/ru/companies/piter/articles/902732/) <br>
 ## eBPF
 [eBPF developer tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial/tree/main) <br>
 [Whole-system, Cross-language OpenTelemetry eBPF profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) <br>
