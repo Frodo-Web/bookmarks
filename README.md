@@ -7,6 +7,8 @@
 [Диагностика с помощью pprof в Golang](https://habr.com/ru/articles/918738/) <br>
 [Application layer на примере Go](https://habr.com/ru/companies/otus/articles/913532/) <br>
 # DBA
+## Clickhouse
+[Distributed table vs External Load Balancer](https://github.com/ClickHouse/ClickHouse/issues/2161) <br>
 ## Kafka
 [Kafka: ребалансировка изнутри](https://habr.com/ru/companies/ozontech/articles/910568/) <br>
 # Infra
