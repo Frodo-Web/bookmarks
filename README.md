@@ -1,6 +1,7 @@
 # bookmarks
 # Архитектура и Дизайн
 [Издержки микросервисов, которые ваш стартап может не потянуть](https://habr.com/ru/companies/ruvds/articles/909548/) <br>
+[Базы данных. Как выбрать идеальное решение? Полный гид по SQL, NoSQL и не только](https://habr.com/ru/articles/922748/) <br>
 # Languages
 ## Golang
 [Диагностика с помощью pprof в Golang](https://habr.com/ru/articles/918738/) <br>
