@@ -8,7 +8,7 @@
 [Application layer на примере Go](https://habr.com/ru/companies/otus/articles/913532/) <br>
 # DBA
 ## Clickhouse
-[Distributed table vs External Load Balancer](https://github.com/ClickHouse/ClickHouse/issues/2161) <br>
+[Distributed table vs External Load Balancer + MergeTree to ReplicatedMergeTree transition](https://github.com/ClickHouse/ClickHouse/issues/2161) <br>
 ## Kafka
 [Kafka: ребалансировка изнутри](https://habr.com/ru/companies/ozontech/articles/910568/) <br>
 # Infra
