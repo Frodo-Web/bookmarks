@@ -18,6 +18,7 @@
 [OpenTelemetry - Injecting Auto-Instrumentation in K8S with otel-operator](https://opentelemetry.io/docs/platforms/kubernetes/operator/automatic/) <br>
 [Put NGINX between two services и сбор OpenTelemetry трейсов](https://opentelemetry.io/blog/2022/instrument-nginx/) <br>
 [Sending Telemetry to (& rehydrating from) AWS S3 with the OTel Collector](https://www.controltheory.com/resources/sending-telemetry-data-to-and-rehydrating-from-aws-s3-using-the-otel-collector/) <br>
+[Внедрение OpenTelemetry в NAV, Автоинструментация, трудности](https://habr.com/ru/companies/flant/articles/845332/) <br>
 ## eBPF
 [eBPF developer tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial/tree/main) <br>
 [Whole-system, Cross-language OpenTelemetry eBPF profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) <br>
