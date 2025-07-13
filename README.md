@@ -33,6 +33,7 @@
 ## Tracing
 [Using FlameGraph with perf by Brendan Gregg](https://github.com/brendangregg/FlameGraph) <br>
 ## Metrics
+[Using z-score for anomaly detection](https://about.gitlab.com/blog/anomaly-detection-using-prometheus/) <br>
 [Statsd - Streaming aggregation daemon. Получает метрики на вход и отправляет в различные бекенды. Есть множество альтернативных решений на других ЯП в репе](https://github.com/statsd/statsd/tree/master) <br>
 ## Victoria Metrics
 [VictoriaMetrics рассчёты и оптимизация](https://habr.com/ru/companies/t2/articles/922168/) <br>
