@@ -21,6 +21,7 @@
 [Внедрение OpenTelemetry в NAV, Автоинструментация, трудности](https://habr.com/ru/companies/flant/articles/845332/) <br>
 [Convert OpenTelemetry Traces to Metrics with SpanMetrics](https://last9.io/blog/convert-opentelemetry-traces-to-metrics-using-spanconnector/) <br>
 [Мониторинг бизнес процессов с помощью OpenTelemetry](https://habr.com/ru/companies/oleg-bunin/articles/865690/) <br>
+[Трассировка OpenTelemetry в 200 строк кода](https://habr.com/ru/companies/beget/articles/844956/) <br>
 ## eBPF
 [eBPF developer tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial/tree/main) <br>
 [Whole-system, Cross-language OpenTelemetry eBPF profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) <br>
