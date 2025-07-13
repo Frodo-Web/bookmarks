@@ -12,6 +12,8 @@
 [Distributed table vs External Load Balancer + MergeTree to ReplicatedMergeTree transition](https://github.com/ClickHouse/ClickHouse/issues/2161) <br>
 ## Kafka
 [Kafka: ребалансировка изнутри](https://habr.com/ru/companies/ozontech/articles/910568/) <br>
+## Cassandra
+[Развёртывание боевого кластера Cassandra. Часть 1](https://habr.com/ru/articles/924634/) <br>
 # Infra
 ## Kubernetes
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
