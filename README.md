@@ -42,6 +42,7 @@
 [otel-collector benchmarks](https://opentelemetry.io/docs/collector/benchmarks/) <br>
 [Измерение аудитории блога с помощью OpenTelemetry](https://habr.com/ru/companies/piter/articles/902732/) <br>
 [Как OpenTelemetry фиксирует ошибки](https://habr.com/ru/companies/flant/articles/892784/) <br>
+[A guide to using OpenTelemetry operator for Kubernetes](https://codilime.com/blog/using-opentelemetry-operator-kubernetes/) <br>
 ## eBPF
 [eBPF developer tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial/tree/main) <br>
 [Whole-system, Cross-language OpenTelemetry eBPF profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) <br>
