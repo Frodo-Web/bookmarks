@@ -64,3 +64,6 @@
 ## Prometheus
 [Analysis Prometheus memory usage](https://www.robustperception.io/analysing-prometheus-memory-usage/) <br>
 [How much RAM does Prometheus 2.x need for cardinality and ingestion?](https://www.robustperception.io/how-much-ram-does-prometheus-2-x-need-for-cardinality-and-ingestion/) <br>
+# Генерация нагрузки, нагрузочное тестирование, бенчмаркинг
+## FIO
+[FIO Benchmark In-Depth Exploration Sharing](https://medium.com/@wrightchen/fio-benchmark-in-depth-exploration-sharing-f7b905c3dfcb) <br>
