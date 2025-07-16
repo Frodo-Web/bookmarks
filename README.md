@@ -20,10 +20,11 @@
 # Infra
 ## Kubernetes
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
-[Как контейнеры работают в Kubernetes](https://habr.com/ru/companies/flant/articles/913548/) <br>
 ## Kubevirt
 [KubeVirt: глубокое погружение для администраторов VMware vSphere](https://habr.com/ru/companies/flant/articles/915942/) <br>
 ## Containers
+[Как контейнеры работают в Kubernetes](https://habr.com/ru/companies/flant/articles/913548/) <br>
+[Как работают файловые системы Linux контейнеров](https://habr.com/ru/companies/flant/articles/862252/) <br>
 ### LXC
 [Туториал по контейнеризации при помощи LXC](https://eax.me/lxc/) <br>
 # Storage
