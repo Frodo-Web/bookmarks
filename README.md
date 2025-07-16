@@ -31,6 +31,7 @@
 [Туториал по контейнеризации при помощи LXC](https://eax.me/lxc/) <br>
 # Storage
 [Как мигрировать данные между разными StorageClass в Kubernetes и зачем это делать](https://habr.com/ru/companies/flant/articles/868280/) <br>
+[LINSTOR — это как Kubernetes, но для блочных устройств (обзор и видео доклада)](https://habr.com/ru/companies/flant/articles/680286/) <br>
 ## Ceph
 [Растянутый кластер Ceph: основные концепции. Часть 1](https://habr.com/ru/companies/runity/articles/921288/) <br>
 ## S3
