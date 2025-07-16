@@ -9,6 +9,7 @@
 ## Golang
 [Диагностика с помощью pprof в Golang](https://habr.com/ru/articles/918738/) <br>
 [Application layer на примере Go](https://habr.com/ru/companies/otus/articles/913532/) <br>
+[FastCGo: как мы ускорили вызов C-кода в Go в 16,5 раза](https://habr.com/ru/companies/flant/articles/923912/) <br>
 # DBA
 ## Clickhouse
 [Distributed table vs External Load Balancer + MergeTree to ReplicatedMergeTree transition](https://github.com/ClickHouse/ClickHouse/issues/2161) <br>
@@ -67,6 +68,7 @@
 [How much RAM does Prometheus 2.x need for cardinality and ingestion?](https://www.robustperception.io/how-much-ram-does-prometheus-2-x-need-for-cardinality-and-ingestion/) <br>
 ## Grafana
 [Trace correlations](https://grafana.com/docs/grafana/latest/datasources/tempo/traces-in-grafana/trace-correlations/) <br>
+[Faro Web SDK](https://github.com/grafana/faro-web-sdk/) <br>
 # Генерация нагрузки, нагрузочное тестирование, бенчмаркинг
 ## FIO
 [FIO Benchmark In-Depth Exploration Sharing](https://medium.com/@wrightchen/fio-benchmark-in-depth-exploration-sharing-f7b905c3dfcb) <br>
