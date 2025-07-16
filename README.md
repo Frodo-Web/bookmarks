@@ -12,6 +12,8 @@
 [FastCGo: как мы ускорили вызов C-кода в Go в 16,5 раза](https://habr.com/ru/companies/flant/articles/923912/) <br>
 [What is the consequence of using CGO_ENABLED=0?](https://www.reddit.com/r/golang/comments/pi97sp/what_is_the_consequence_of_using_cgo_enabled0/) <br>
 # DBA
+## PostgreSQL
+[Как обновить PostgreSQL и не потерять данные: метод минимизации простоя](https://habr.com/ru/companies/flant/articles/866250/) <br>
 ## Clickhouse
 [Distributed table vs External Load Balancer + MergeTree to ReplicatedMergeTree transition](https://github.com/ClickHouse/ClickHouse/issues/2161) <br>
 ## Kafka
