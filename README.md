@@ -53,6 +53,7 @@
 [Обнаружение шумных соседей с eBPF](https://habr.com/ru/companies/wunderfund/articles/859978/) <br>
 [Покоряем сетевой стек Linux: декапсулируем пакеты с помощью eBPF на скорости 6Mpps+](https://habr.com/ru/companies/selectel/articles/901186/) <br>
 [Катран - балансер 4го уровня на XDP, линейное масштабирование NIC RX, VIP расширяется как IP, Protocol, port ](https://github.com/facebookincubator/katran/tree/main) <br>
+[Аудит по-взрослому. Применяем Tetragon на практике (и убеждаемся в силе eBPF)](https://xakep.ru/2025/04/09/ebpf-tetragon/) <br>
 ## Tracing
 [Using FlameGraph with perf by Brendan Gregg](https://github.com/brendangregg/FlameGraph) <br>
 ## Metrics
@@ -64,6 +65,8 @@
 ## Prometheus
 [Analysis Prometheus memory usage](https://www.robustperception.io/analysing-prometheus-memory-usage/) <br>
 [How much RAM does Prometheus 2.x need for cardinality and ingestion?](https://www.robustperception.io/how-much-ram-does-prometheus-2-x-need-for-cardinality-and-ingestion/) <br>
+## Grafana
+[Trace correlations](https://grafana.com/docs/grafana/latest/datasources/tempo/traces-in-grafana/trace-correlations/) <br>
 # Генерация нагрузки, нагрузочное тестирование, бенчмаркинг
 ## FIO
 [FIO Benchmark In-Depth Exploration Sharing](https://medium.com/@wrightchen/fio-benchmark-in-depth-exploration-sharing-f7b905c3dfcb) <br>
