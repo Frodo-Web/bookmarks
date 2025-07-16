@@ -29,6 +29,7 @@
 [Как контейнеры работают в Kubernetes](https://habr.com/ru/companies/flant/articles/913548/) <br>
 [Как работают файловые системы Linux контейнеров](https://habr.com/ru/companies/flant/articles/862252/) <br>
 [Что находится внутри образов distroless-контейнеров](https://habr.com/ru/companies/flant/articles/822427/) <br>
+[Неиспользуемые остатки образов в Docker: как удалить зомби-слои и защитить секреты](https://habr.com/ru/companies/flant/articles/877608/) <br>
 ### LXC
 [Туториал по контейнеризации при помощи LXC](https://eax.me/lxc/) <br>
 # Storage
