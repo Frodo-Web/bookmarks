@@ -28,6 +28,8 @@
 # Storage
 ## Ceph
 [Растянутый кластер Ceph: основные концепции. Часть 1](https://habr.com/ru/companies/runity/articles/921288/) <br>
+## S3
+[S3 в мире Kubernetes: как объектное хранилище сделать частью контейнеров (подход от команды Deckhouse)](https://habr.com/ru/companies/flant/articles/910938/) <br>
 # O11y
 ## OpenTelemetry
 [otel-desktop-viewer - локально смотреть данные otel-collector, и можно через otel-cli работать](https://github.com/CtrlSpice/otel-desktop-viewer) <br>
