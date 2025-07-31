@@ -21,6 +21,8 @@
 ## Cassandra
 [Развёртывание боевого кластера Cassandra. Часть 1](https://habr.com/ru/articles/924634/) <br>
 # Infra
+## Hardware
+[Введение в SSD. Часть 2. Интерфейсная](https://habr.com/ru/companies/selectel/articles/478684/) <br>
 ## Kubernetes
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
 ## Kubevirt
