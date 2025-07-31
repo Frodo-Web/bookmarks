@@ -23,6 +23,7 @@
 # Infra
 ## Hardware
 [Введение в SSD. Часть 2. Интерфейсная](https://habr.com/ru/companies/selectel/articles/478684/) <br>
+[FC vs Ethernet (iSCSI), FC vs RoCE, FC NVMe vs FC SCSI](https://habr.com/ru/companies/jetinfosystems/articles/592703/) <br>
 ## Kubernetes
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
 ## Kubevirt
