@@ -32,7 +32,7 @@
 ## Kubernetes
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
 ### Service Mesh
-[Istio: паттерны управления трафиком, авторизация, canary, observability](https://habr.com/ru/companies/flant/articles/438426/) <br>
+[Istio: паттерны управления трафиком, авторизация, canary, observability, проброс заголовков](https://habr.com/ru/companies/flant/articles/438426/) <br>
 ## Kubevirt
 [KubeVirt: глубокое погружение для администраторов VMware vSphere](https://habr.com/ru/companies/flant/articles/915942/) <br>
 ## Containers
