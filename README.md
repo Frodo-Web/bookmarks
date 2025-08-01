@@ -5,7 +5,7 @@
 [Распределённая трассировка с Jaeger и Clickhouse](https://habr.com/ru/companies/oleg-bunin/articles/814877/) <br>
 [System Design для начинающих: всё что вам нужно. Часть 1](https://habr.com/ru/articles/873388/) <br>
 [Топ 10 заповедей системного дизайна](https://habr.com/ru/articles/915376/) <br>
-# Паттерны разработки
+# Паттерны микросервисной архитектуры
 [Circuit breaker, timeout, bulkhead, retry, fallback, rate limiter](https://habr.com/ru/companies/otus/articles/778574/) <br>
 # Languages
 ## Golang
@@ -33,6 +33,7 @@
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
 ### Service Mesh
 [Istio: паттерны управления трафиком, авторизация, canary, observability, проброс заголовков](https://habr.com/ru/companies/flant/articles/438426/) <br>
+[Istio: mirroring, A/B, canary, timeout, retry, circuit breaker, bulkhead](https://habr.com/ru/companies/flant/articles/440378/) <br>
 ## Kubevirt
 [KubeVirt: глубокое погружение для администраторов VMware vSphere](https://habr.com/ru/companies/flant/articles/915942/) <br>
 ## Containers
