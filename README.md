@@ -14,6 +14,8 @@
 [FastCGo: как мы ускорили вызов C-кода в Go в 16,5 раза](https://habr.com/ru/companies/flant/articles/923912/) <br>
 [What is the consequence of using CGO_ENABLED=0?](https://www.reddit.com/r/golang/comments/pi97sp/what_is_the_consequence_of_using_cgo_enabled0/) <br>
 [Потоки, горутины, синхронизация и мьютексы в Go](https://habr.com/ru/articles/933464/) <br>
+# Quality Assurance
+[Моки в тестировании микросервисов с кучей интеграций — кейс финтех-приложения](https://habr.com/ru/companies/agima/articles/931814/) <br>
 # DBA
 ## Redis
 [Оптимизация Redis для высоких нагрузок: полное руководство](https://habr.com/ru/companies/selectel/articles/931760/) <br>
