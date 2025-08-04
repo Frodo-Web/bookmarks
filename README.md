@@ -48,6 +48,7 @@
 # Storage
 [Как мигрировать данные между разными StorageClass в Kubernetes и зачем это делать](https://habr.com/ru/companies/flant/articles/868280/) <br>
 [Правильные, но (не)простые бэкапы. Как настроить резервное копирование в Kubernetes?](https://habr.com/ru/companies/selectel/articles/777414/) <br>
+[Спокойный сон и крепкие нервы. Резервное копирование для Kubernetes. Часть 1](https://habr.com/ru/companies/otus/articles/667644/) <br>
 [LINSTOR — это как Kubernetes, но для блочных устройств (обзор и видео доклада)](https://habr.com/ru/companies/flant/articles/680286/) <br>
 ## Ceph
 [Растянутый кластер Ceph: основные концепции. Часть 1](https://habr.com/ru/companies/runity/articles/921288/) <br>
