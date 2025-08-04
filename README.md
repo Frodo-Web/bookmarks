@@ -36,6 +36,7 @@
 ### Service Mesh
 [Istio: паттерны управления трафиком, авторизация, canary, observability, проброс заголовков](https://habr.com/ru/companies/flant/articles/438426/) <br>
 [Istio: mirroring, A/B, canary, timeout, retry, circuit breaker, bulkhead](https://habr.com/ru/companies/flant/articles/440378/) <br>
+[Как мы внедряли Service Mesh и не утонули в сложностях: реальный кейс Orion soft](https://habr.com/ru/companies/orion_soft/articles/932118/) <br>
 ## Kubevirt
 [KubeVirt: глубокое погружение для администраторов VMware vSphere](https://habr.com/ru/companies/flant/articles/915942/) <br>
 ## Containers
