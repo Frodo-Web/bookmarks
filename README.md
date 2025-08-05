@@ -8,6 +8,8 @@
 # Паттерны микросервисной архитектуры
 [Circuit breaker, timeout, bulkhead, retry, fallback, rate limiter](https://habr.com/ru/companies/otus/articles/778574/) <br>
 [Взаимодействие микросервисов: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/933110/) <br>
+# Проблемы из опыта
+[DNS-хаос, зомби-поды и майнеры в кластере: самые невероятные случаи при работе с Kubernetes](https://habr.com/ru/companies/flant/articles/931902/) <br>
 # Languages
 ## Golang
 [Диагностика с помощью pprof в Golang](https://habr.com/ru/articles/918738/) <br>
