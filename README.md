@@ -26,6 +26,7 @@
 [Как обновить PostgreSQL и не потерять данные: метод минимизации простоя](https://habr.com/ru/companies/flant/articles/866250/) <br>
 ## Clickhouse
 [Distributed table vs External Load Balancer + MergeTree to ReplicatedMergeTree transition](https://github.com/ClickHouse/ClickHouse/issues/2161) <br>
+[Sparse primary indexes](https://clickhouse.com/docs/ru/primary-indexes?ysclid=mdpnrwg3yl220917909) <br>
 ## Kafka
 [Kafka: ребалансировка изнутри](https://habr.com/ru/companies/ozontech/articles/910568/) <br>
 ## Cassandra
