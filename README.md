@@ -48,6 +48,7 @@
 [etcd в Kubernetes: разбираемся с задержками](https://habr.com/ru/companies/chislitellab/articles/934526/) <br>
 [Как спрятать сontrol plane Kubernetes от любопытных глаз](https://habr.com/ru/companies/mws/articles/931232/) <br>
 [Чем заняться в выходные? Как я собрал домашнюю виртуализацию в контейнерах за 34 500 рублей](https://habr.com/ru/companies/flant/articles/928114/) <br>
+[Kubernetes Scheduler в Деталях: Важные Аспекты. Часть 1](https://habr.com/ru/companies/otus/articles/761186/) <br>
 ### Service Mesh
 [Istio: паттерны управления трафиком, авторизация, canary, observability, проброс заголовков](https://habr.com/ru/companies/flant/articles/438426/) <br>
 [Istio: mirroring, A/B, canary, timeout, retry, circuit breaker, bulkhead](https://habr.com/ru/companies/flant/articles/440378/) <br>
