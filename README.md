@@ -44,6 +44,7 @@
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
 [Снапшоты в Kubernetes: что это и как ими пользоваться](https://habr.com/ru/companies/flant/articles/676678/) <br>
 [Успех секрета: как доставлять секреты в приложения безопасно и без головной боли](https://habr.com/ru/companies/flant/articles/932862/) <br>
+[etcd в Kubernetes: разбираемся с задержками](https://habr.com/ru/companies/chislitellab/articles/934526/) <br>
 ### Service Mesh
 [Istio: паттерны управления трафиком, авторизация, canary, observability, проброс заголовков](https://habr.com/ru/companies/flant/articles/438426/) <br>
 [Istio: mirroring, A/B, canary, timeout, retry, circuit breaker, bulkhead](https://habr.com/ru/companies/flant/articles/440378/) <br>
