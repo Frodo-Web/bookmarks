@@ -110,5 +110,6 @@
 [Trace correlations](https://grafana.com/docs/grafana/latest/datasources/tempo/traces-in-grafana/trace-correlations/) <br>
 [Faro Web SDK](https://github.com/grafana/faro-web-sdk/) <br>
 # Генерация нагрузки, нагрузочное тестирование, бенчмаркинг
+[Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/) <br>
 ## FIO
 [FIO Benchmark In-Depth Exploration Sharing](https://medium.com/@wrightchen/fio-benchmark-in-depth-exploration-sharing-f7b905c3dfcb) <br>
