@@ -41,6 +41,7 @@
 [Продираемся сквозь сети в Kubernetes: Load-Balance, BGP, IPVS и все такое прочее](https://habr.com/ru/companies/orion_soft/articles/834806/) <br>
 [Основные концепции сетевой архитектуры Kubernetes, а также CNI, Service Mesh и т.д](https://habr.com/ru/articles/886528/) <br>
 [Через тернии к звездам: настраиваем сетевую связность Kubernetes на физическом сервере в ЦОД](https://habr.com/ru/companies/cloud_ru/articles/927884/) <br>
+[Throughput vs Bandwidth](https://www.indeed.com/career-advice/career-development/throughput-vs-bandwidth) <br>
 ## Kubernetes
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
 [Снапшоты в Kubernetes: что это и как ими пользоваться](https://habr.com/ru/companies/flant/articles/676678/) <br>
