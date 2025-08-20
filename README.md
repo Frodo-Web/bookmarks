@@ -47,6 +47,7 @@
 [Снапшоты в Kubernetes: что это и как ими пользоваться](https://habr.com/ru/companies/flant/articles/676678/) <br>
 [Успех секрета: как доставлять секреты в приложения безопасно и без головной боли](https://habr.com/ru/companies/flant/articles/932862/) <br>
 [etcd в Kubernetes: разбираемся с задержками](https://habr.com/ru/companies/chislitellab/articles/934526/) <br>
+[Ломаем и чиним etcd-кластер](https://habr.com/ru/companies/aenix/articles/544390/) <br>
 [Как спрятать сontrol plane Kubernetes от любопытных глаз](https://habr.com/ru/companies/mws/articles/931232/) <br>
 [Чем заняться в выходные? Как я собрал домашнюю виртуализацию в контейнерах за 34 500 рублей](https://habr.com/ru/companies/flant/articles/928114/) <br>
 [Kubernetes Scheduler в Деталях: Важные Аспекты. Часть 1](https://habr.com/ru/companies/otus/articles/761186/) <br>
