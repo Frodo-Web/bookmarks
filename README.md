@@ -42,6 +42,7 @@
 [Основные концепции сетевой архитектуры Kubernetes, а также CNI, Service Mesh и т.д](https://habr.com/ru/articles/886528/) <br>
 [Через тернии к звездам: настраиваем сетевую связность Kubernetes на физическом сервере в ЦОД](https://habr.com/ru/companies/cloud_ru/articles/927884/) <br>
 [Throughput vs Bandwidth](https://www.indeed.com/career-advice/career-development/throughput-vs-bandwidth) <br>
+[BIG TCP приходит в Linux — теперь и для IPv4 - комменты интересные есть](https://habr.com/ru/companies/vasexperts/articles/721696/) <br>
 ## Kubernetes
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
 [Снапшоты в Kubernetes: что это и как ими пользоваться](https://habr.com/ru/companies/flant/articles/676678/) <br>
