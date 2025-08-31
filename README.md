@@ -74,6 +74,7 @@
 [Спокойный сон и крепкие нервы. Резервное копирование для Kubernetes. Часть 1](https://habr.com/ru/companies/otus/articles/667644/) <br>
 [Способы бэкапирования Persistent Volumes в Kubernetes кластере с помощью Velero](https://habr.com/ru/articles/671706/) <br>
 [LINSTOR — это как Kubernetes, но для блочных устройств (обзор и видео доклада)](https://habr.com/ru/companies/flant/articles/680286/) <br>
+[Увеличиваем дисковое пространство физического сервера за одну минуту: iSCSI, LUN, baremetal, Cloud](https://habr.com/ru/companies/cloud_ru/articles/938614/) <br>
 ## Ceph
 [Растянутый кластер Ceph: основные концепции. Часть 1](https://habr.com/ru/companies/runity/articles/921288/) <br>
 ## S3
