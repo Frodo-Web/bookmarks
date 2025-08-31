@@ -1,6 +1,6 @@
 # bookmarks
 # Архитектура и Дизайн
-[A/B Testing vs Canary Testing vs Blue/Green Deployment](https://stackoverflow.com/questions/62092338/canary-vs-a-b-release-strategy) <br>
+[Progressive Delivery: A/B Testing vs Canary Testing vs Blue/Green Deployment](https://stackoverflow.com/questions/62092338/canary-vs-a-b-release-strategy) <br>
 [Издержки микросервисов, которые ваш стартап может не потянуть](https://habr.com/ru/companies/ruvds/articles/909548/) <br>
 [Базы данных. Как выбрать идеальное решение? Полный гид по SQL, NoSQL и не только](https://habr.com/ru/articles/922748/) <br>
 [Распределённая трассировка с Jaeger и Clickhouse](https://habr.com/ru/companies/oleg-bunin/articles/814877/) <br>
