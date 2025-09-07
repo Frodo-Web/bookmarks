@@ -82,6 +82,7 @@
 [S3 в мире Kubernetes: как объектное хранилище сделать частью контейнеров (подход от команды Deckhouse)](https://habr.com/ru/companies/flant/articles/910938/) <br>
 # O11y
 [LLM observability with ClickStack, OpenTelemetry, and MCP](https://clickhouse.com/blog/llm-observability-clickstack-mcp) <br>
+[ClickHouse как бэкенд для Prometheus](https://habr.com/ru/articles/799791/) <br>
 ## OpenTelemetry
 [otel-desktop-viewer - локально смотреть данные otel-collector, и можно через otel-cli работать](https://github.com/CtrlSpice/otel-desktop-viewer) <br>
 [OpenTelemetry - Injecting Auto-Instrumentation in K8S with otel-operator](https://opentelemetry.io/docs/platforms/kubernetes/operator/automatic/) <br>
