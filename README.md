@@ -22,6 +22,10 @@
 # Quality Assurance
 [Моки в тестировании микросервисов с кучей интеграций — кейс финтех-приложения](https://habr.com/ru/companies/agima/articles/931814/) <br>
 # DBA
+## YDB
+[Как мы ускорили заливку данных в YDB в 40 раз](https://habr.com/ru/companies/flocktory/articles/946454/) <br>
+[Запустили векторный поиск в YDB: рассказываем, как он работает](https://habr.com/ru/companies/yandex/articles/926724/) <br>
+[Федеративные возможности YDB: масштабируем разработку вместе со студентами](https://habr.com/ru/companies/yandex/articles/919120/) <br>
 ## Redis
 [Оптимизация Redis для высоких нагрузок: полное руководство](https://habr.com/ru/companies/selectel/articles/931760/) <br>
 [Повышаем производительность Redis: советы для начинающих](https://habr.com/ru/companies/psb/articles/944890/) <br>
