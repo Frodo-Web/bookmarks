@@ -24,6 +24,7 @@
 # DBA
 ## Redis
 [Оптимизация Redis для высоких нагрузок: полное руководство](https://habr.com/ru/companies/selectel/articles/931760/) <br>
+[Повышаем производительность Redis: советы для начинающих](https://habr.com/ru/companies/psb/articles/944890/) <br>
 ## PostgreSQL
 [Как обновить PostgreSQL и не потерять данные: метод минимизации простоя](https://habr.com/ru/companies/flant/articles/866250/) <br>
 ## Clickhouse
