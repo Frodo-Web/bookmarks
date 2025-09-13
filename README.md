@@ -6,6 +6,7 @@
 [Распределённая трассировка с Jaeger и Clickhouse](https://habr.com/ru/companies/oleg-bunin/articles/814877/) <br>
 [System Design для начинающих: всё что вам нужно. Часть 1](https://habr.com/ru/articles/873388/) <br>
 [Топ 10 заповедей системного дизайна](https://habr.com/ru/articles/915376/) <br>
+[Проходим L6 интервью на System Design в FAANG](https://habr.com/ru/articles/655663/) <br>
 # Паттерны микросервисной архитектуры
 [Circuit breaker, timeout, bulkhead, retry, fallback, rate limiter](https://habr.com/ru/companies/otus/articles/778574/) <br>
 [Взаимодействие микросервисов: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/933110/) <br>
