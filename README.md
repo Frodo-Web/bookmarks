@@ -37,6 +37,7 @@
 [Sparse primary indexes](https://clickhouse.com/docs/ru/primary-indexes?ysclid=mdpnrwg3yl220917909) <br>
 ## Kafka
 [Kafka: ребалансировка изнутри](https://habr.com/ru/companies/ozontech/articles/910568/) <br>
+[Практика Kafka: проектирование топиков и обмен сообщениями](https://habr.com/ru/articles/944432/) <br>
 ## Cassandra
 [Развёртывание боевого кластера Cassandra. Часть 1](https://habr.com/ru/articles/924634/) <br>
 # Infra
