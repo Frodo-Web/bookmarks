@@ -52,6 +52,8 @@
 [Через тернии к звездам: настраиваем сетевую связность Kubernetes на физическом сервере в ЦОД](https://habr.com/ru/companies/cloud_ru/articles/927884/) <br>
 [Throughput vs Bandwidth](https://www.indeed.com/career-advice/career-development/throughput-vs-bandwidth) <br>
 [BIG TCP приходит в Linux — теперь и для IPv4 - комменты интересные есть](https://habr.com/ru/companies/vasexperts/articles/721696/) <br>
+## Load Balancers
+[Nginx Lua Prometheus](https://github.com/knyar/nginx-lua-prometheus) <br>
 ## Kubernetes
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
 [Снапшоты в Kubernetes: что это и как ими пользоваться](https://habr.com/ru/companies/flant/articles/676678/) <br>
@@ -92,6 +94,7 @@
 # O11y
 [LLM observability with ClickStack, OpenTelemetry, and MCP](https://clickhouse.com/blog/llm-observability-clickstack-mcp) <br>
 [ClickHouse как бэкенд для Prometheus](https://habr.com/ru/articles/799791/) <br>
+[Мониторинг и SLA на фронтенде: где брать метрики и как не высасывать из пальца SLI](https://habr.com/ru/companies/kuper/articles/943788/) <br>
 ## OpenTelemetry
 [otel-desktop-viewer - локально смотреть данные otel-collector, и можно через otel-cli работать](https://github.com/CtrlSpice/otel-desktop-viewer) <br>
 [OpenTelemetry - Injecting Auto-Instrumentation in K8S with otel-operator](https://opentelemetry.io/docs/platforms/kubernetes/operator/automatic/) <br>
