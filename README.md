@@ -100,6 +100,7 @@
 [LLM observability with ClickStack, OpenTelemetry, and MCP](https://clickhouse.com/blog/llm-observability-clickstack-mcp) <br>
 [ClickHouse как бэкенд для Prometheus](https://habr.com/ru/articles/799791/) <br>
 [Мониторинг и SLA на фронтенде: где брать метрики и как не высасывать из пальца SLI](https://habr.com/ru/companies/kuper/articles/943788/) <br>
+[Мониторинг и анализ производительности бэкенда с помощью ClickHouse и Grafana. Часть 2](https://habr.com/ru/companies/etpgpb_vesna/articles/944148/) <br>
 ## OpenTelemetry
 [otel-desktop-viewer - локально смотреть данные otel-collector, и можно через otel-cli работать](https://github.com/CtrlSpice/otel-desktop-viewer) <br>
 [OpenTelemetry - Injecting Auto-Instrumentation in K8S with otel-operator](https://opentelemetry.io/docs/platforms/kubernetes/operator/automatic/) <br>
