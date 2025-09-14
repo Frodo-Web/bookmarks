@@ -46,14 +46,15 @@
 [FC vs Ethernet (iSCSI), FC vs RoCE, FC NVMe vs FC SCSI](https://habr.com/ru/companies/jetinfosystems/articles/592703/) <br>
 [Difference between RAID and HBA](https://serverfault.com/questions/616831/what-is-the-difference-between-a-hba-card-and-a-raid-card) <br>
 ## Networking
-[L4, L7 load balancing difference](https://www.vmware.com/topics/layer-4-load-balancing) <br>
 [Продираемся сквозь сети в Kubernetes: Load-Balance, BGP, IPVS и все такое прочее](https://habr.com/ru/companies/orion_soft/articles/834806/) <br>
 [Основные концепции сетевой архитектуры Kubernetes, а также CNI, Service Mesh и т.д](https://habr.com/ru/articles/886528/) <br>
 [Через тернии к звездам: настраиваем сетевую связность Kubernetes на физическом сервере в ЦОД](https://habr.com/ru/companies/cloud_ru/articles/927884/) <br>
 [Throughput vs Bandwidth](https://www.indeed.com/career-advice/career-development/throughput-vs-bandwidth) <br>
 [BIG TCP приходит в Linux — теперь и для IPv4 - комменты интересные есть](https://habr.com/ru/companies/vasexperts/articles/721696/) <br>
-## Load Balancers
+## Load Balancers, Proxy
+[L4, L7 load balancing difference](https://www.vmware.com/topics/layer-4-load-balancing) <br>
 [Nginx Lua Prometheus](https://github.com/knyar/nginx-lua-prometheus) <br>
+[UDP прокси в повседневной жизни: что это и как использовать — чем UDP прокси отличаются от других видов прокси](https://habr.com/ru/articles/944076/) <br>
 ## Kubernetes
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
 [Снапшоты в Kubernetes: что это и как ими пользоваться](https://habr.com/ru/companies/flant/articles/676678/) <br>
