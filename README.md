@@ -145,3 +145,5 @@
 [Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/) <br>
 ## FIO
 [FIO Benchmark In-Depth Exploration Sharing](https://medium.com/@wrightchen/fio-benchmark-in-depth-exploration-sharing-f7b905c3dfcb) <br>
+# SRE
+[SRE in 100 lessons](https://sre.in100.dev/) <br>
