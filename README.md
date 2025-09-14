@@ -13,6 +13,8 @@
 [Взаимодействие микросервисов: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/933110/) <br>
 # Проблемы из опыта
 [DNS-хаос, зомби-поды и майнеры в кластере: самые невероятные случаи при работе с Kubernetes](https://habr.com/ru/companies/flant/articles/931902/) <br>
+# Chaos Engineering
+[Обзор инструментов для chaos engineering в Kubernetes. Часть 1: kube-monkey, chaoskube, Chaos Mesh](https://habr.com/ru/companies/flant/articles/527664/) <br>
 # Languages
 ## Golang
 [Диагностика с помощью pprof в Golang](https://habr.com/ru/articles/918738/) <br>
