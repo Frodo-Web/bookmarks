@@ -54,6 +54,7 @@
 [Через тернии к звездам: настраиваем сетевую связность Kubernetes на физическом сервере в ЦОД](https://habr.com/ru/companies/cloud_ru/articles/927884/) <br>
 [Throughput vs Bandwidth](https://www.indeed.com/career-advice/career-development/throughput-vs-bandwidth) <br>
 [BIG TCP приходит в Linux — теперь и для IPv4 - комменты интересные есть](https://habr.com/ru/companies/vasexperts/articles/721696/) <br>
+[Темная сторона NGFW: проблемы, о которых не говорят вендоры. Уроки неудачных проектов](https://www.securitylab.ru/analytics/563044.php) <br>
 ## Load Balancers, Proxy
 [L4, L7 load balancing difference](https://www.vmware.com/topics/layer-4-load-balancing) <br>
 [Nginx Lua Prometheus](https://github.com/knyar/nginx-lua-prometheus) <br>
