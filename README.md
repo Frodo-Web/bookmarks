@@ -94,6 +94,7 @@
 [LINSTOR — это как Kubernetes, но для блочных устройств (обзор и видео доклада)](https://habr.com/ru/companies/flant/articles/680286/) <br>
 [Увеличиваем дисковое пространство физического сервера за одну минуту: iSCSI, LUN, baremetal, Cloud](https://habr.com/ru/companies/cloud_ru/articles/938614/) <br>
 [iSCSI vs NVMe-oF: Performance Comparison](https://www.starwindsoftware.com/blog/iscsi-vs-nvme-of-performance-comparison/) <br>
+[Migrating Kubernetes PVCs from csi-proxmox to csi-cephfs](https://caleb-smith.dev/blog/migrating-kubernetes-pvcs-from-csi-proxmox-to-csi-cephfs) <br>
 ## Ceph
 [Растянутый кластер Ceph: основные концепции. Часть 1](https://habr.com/ru/companies/runity/articles/921288/) <br>
 ## S3
