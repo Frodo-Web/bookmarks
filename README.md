@@ -99,6 +99,7 @@
 [Растянутый кластер Ceph: основные концепции. Часть 1](https://habr.com/ru/companies/runity/articles/921288/) <br>
 [Migrating Kubernetes PVCs from csi-proxmox to csi-cephfs](https://caleb-smith.dev/blog/migrating-kubernetes-pvcs-from-csi-proxmox-to-csi-cephfs) <br>
 [Exploring Ceph Filesystem I/O: The Internal Workings of File Creation](https://community.ibm.com/community/user/blogs/hemanth-kumar-y-j/2024/11/30/exploring-ceph-filesystem-io-the-internal-workings) <br>
+[Ceph logging debug](https://documentation.suse.com/ses/7.1/html/ses-all/bp-troubleshooting-logging.html) <br>
 ## S3
 [S3 в мире Kubernetes: как объектное хранилище сделать частью контейнеров (подход от команды Deckhouse)](https://habr.com/ru/companies/flant/articles/910938/) <br>
 [Тысячи асинхронных задач в секунду в облачных s3 на Rust/Axum/Tokio: шлифуем ржавчину до блеска](https://habr.com/ru/companies/oleg-bunin/articles/947104/) <br>
