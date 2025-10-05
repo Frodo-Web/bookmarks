@@ -156,6 +156,7 @@
 ## Logs
 [Vector VRL Web Playground](https://github.com/vectordotdev/vector/tree/master/lib/vector-vrl/web-playground) <br>
 [Vector VRL Web playground](https://playground.vrl.dev/) <br>
+[Vector Sources](https://vector.dev/docs/reference/configuration/sources/) <br>
 # Генерация нагрузки, нагрузочное тестирование, бенчмаркинг
 [Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/) <br>
 ## CI/CD
