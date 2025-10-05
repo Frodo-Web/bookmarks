@@ -111,6 +111,7 @@
 [Мониторинг и анализ производительности бэкенда с помощью ClickHouse и Grafana. Часть 2](https://habr.com/ru/companies/etpgpb_vesna/articles/944148/) <br>
 [Как мониторить сотни инстансов PostgreSQL и не сойти с ума](https://habr.com/ru/companies/tantor/articles/940752/) <br>
 ## OpenTelemetry
+[Scale Up Otel collector](https://opentelemetry.io/docs/collector/scaling/) <br>
 [otel-desktop-viewer - локально смотреть данные otel-collector, и можно через otel-cli работать](https://github.com/CtrlSpice/otel-desktop-viewer) <br>
 [OpenTelemetry - Injecting Auto-Instrumentation in K8S with otel-operator](https://opentelemetry.io/docs/platforms/kubernetes/operator/automatic/) <br>
 [Put NGINX between two services и сбор OpenTelemetry трейсов](https://opentelemetry.io/blog/2022/instrument-nginx/) <br>
