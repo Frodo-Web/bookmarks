@@ -48,6 +48,10 @@
 [Практика Kafka: проектирование топиков и обмен сообщениями](https://habr.com/ru/articles/944432/) <br>
 ## Cassandra
 [Развёртывание боевого кластера Cassandra. Часть 1](https://habr.com/ru/articles/924634/) <br>
+# DataWareHouse, DataLake, LakeHouse, MPP, OLAP, ETL
+[ClickHouse уже не один: StarRocks показывает, что lakehouse-аналитика может быть проще и быстрее»](https://habr.com/ru/articles/956334/) <br>
+[Нужна ли нам Lakehouse архитектура?](https://habr.com/ru/companies/otus/articles/823336/) <br>
+
 # Infra
 ## Hardware
 [Введение в SSD. Часть 2. Интерфейсная](https://habr.com/ru/companies/selectel/articles/478684/) <br>
