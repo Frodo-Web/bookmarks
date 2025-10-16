@@ -157,6 +157,7 @@
 ## Prometheus
 [Analysis Prometheus memory usage](https://www.robustperception.io/analysing-prometheus-memory-usage/) <br>
 [How much RAM does Prometheus 2.x need for cardinality and ingestion?](https://www.robustperception.io/how-much-ram-does-prometheus-2-x-need-for-cardinality-and-ingestion/) <br>
+[Deckhouse Prom++](https://github.com/deckhouse/prompp/tree/pp) <br>
 ## Grafana
 [Trace correlations](https://grafana.com/docs/grafana/latest/datasources/tempo/traces-in-grafana/trace-correlations/) <br>
 [Faro Web SDK](https://github.com/grafana/faro-web-sdk/) <br>
