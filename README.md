@@ -68,6 +68,7 @@
 [L4, L7 load balancing difference](https://www.vmware.com/topics/layer-4-load-balancing) <br>
 [Nginx Lua Prometheus](https://github.com/knyar/nginx-lua-prometheus) <br>
 [UDP прокси в повседневной жизни: что это и как использовать — чем UDP прокси отличаются от других видов прокси](https://habr.com/ru/articles/944076/) <br>
+[Балансировка нагрузки: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/955202/) <br>
 ## Kubernetes
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
 [Снапшоты в Kubernetes: что это и как ими пользоваться](https://habr.com/ru/companies/flant/articles/676678/) <br>
