@@ -121,6 +121,7 @@
 [Мониторинг и анализ производительности бэкенда с помощью ClickHouse и Grafana. Часть 2](https://habr.com/ru/companies/etpgpb_vesna/articles/944148/) <br>
 [Как мониторить сотни инстансов PostgreSQL и не сойти с ума](https://habr.com/ru/companies/tantor/articles/940752/) <br>
 [Кликозявый эластикозавр обзёрнообразный – ClickStack ](https://gavrilov.info/all/klikozyavy-elastikozavr-obzyornoobrazny-clickstack/) <br>
+[Uptrace v2.0: как новый JSON-тип ClickHouse ускорил запросы по трейсам в 10 раз](https://habr.com/ru/articles/957074/) <br>
 ## OpenTelemetry
 [Scale Up Otel collector](https://opentelemetry.io/docs/collector/scaling/) <br>
 [otel-desktop-viewer - локально смотреть данные otel-collector, и можно через otel-cli работать](https://github.com/CtrlSpice/otel-desktop-viewer) <br>
