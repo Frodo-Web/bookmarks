@@ -10,6 +10,7 @@
 [Топ 10 заповедей системного дизайна](https://habr.com/ru/articles/915376/) <br>
 [Проходим L6 интервью на System Design в FAANG](https://habr.com/ru/articles/655663/) <br>
 [Искусство проектирования URL: Роутинг, Query и Hash параметры](https://habr.com/ru/articles/943918/) <br>
+[Серверные прокси — что это, особенности и примеры использования](https://habr.com/ru/articles/957574/) <br>
 # Паттерны микросервисной архитектуры
 [Circuit breaker, timeout, bulkhead, retry, fallback, rate limiter](https://habr.com/ru/companies/otus/articles/778574/) <br>
 [Взаимодействие микросервисов: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/933110/) <br>
