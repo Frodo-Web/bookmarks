@@ -124,6 +124,7 @@
 [Кликозявый эластикозавр обзёрнообразный – ClickStack ](https://gavrilov.info/all/klikozyavy-elastikozavr-obzyornoobrazny-clickstack/) <br>
 [Uptrace v2.0: как новый JSON-тип ClickHouse ускорил запросы по трейсам в 10 раз](https://habr.com/ru/articles/957074/) <br>
 ## OpenTelemetry
+[Что такое OpenTelemetry и как она может улучшить качество ваших сервисов](https://tproger.ru/articles/chto-takoe-opentelemetry-i-kak-ona-mozhet-uluchwit-kachestvo-vawih-servisov) <br>
 [Scale Up Otel collector](https://opentelemetry.io/docs/collector/scaling/) <br>
 [otel-desktop-viewer - локально смотреть данные otel-collector, и можно через otel-cli работать](https://github.com/CtrlSpice/otel-desktop-viewer) <br>
 [OpenTelemetry - Injecting Auto-Instrumentation in K8S with otel-operator](https://opentelemetry.io/docs/platforms/kubernetes/operator/automatic/) <br>
