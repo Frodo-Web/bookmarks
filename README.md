@@ -169,6 +169,9 @@
 [Trace correlations](https://grafana.com/docs/grafana/latest/datasources/tempo/traces-in-grafana/trace-correlations/) <br>
 [Faro Web SDK](https://github.com/grafana/faro-web-sdk/) <br>
 ## Logs
+[Практики SRE: стандартизация логов](https://habr.com/ru/companies/vitech/articles/854424/) <br>
+[What are some standards when it comes to logging?](https://www.reddit.com/r/ExperiencedDevs/comments/143tray/what_are_some_standards_when_it_comes_to_logging/) <br>
+[10 лучших приёмов логирования для разработчиков](https://habr.com/ru/companies/netologyru/articles/861800/) <br>
 [Vector VRL Web Playground](https://github.com/vectordotdev/vector/tree/master/lib/vector-vrl/web-playground) <br>
 [Vector VRL Web playground](https://playground.vrl.dev/) <br>
 [Vector Sources](https://vector.dev/docs/reference/configuration/sources/) <br>
