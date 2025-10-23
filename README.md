@@ -171,6 +171,7 @@
 [Trace correlations](https://grafana.com/docs/grafana/latest/datasources/tempo/traces-in-grafana/trace-correlations/) <br>
 [Faro Web SDK](https://github.com/grafana/faro-web-sdk/) <br>
 ## Logs
+[Многоуровневое логирование: Руководство по структурированному и последовательному ведению логов](https://habr.com/ru/companies/otus/articles/783738/) <br>
 [Как сделать централизованное логирование и крепко спать по ночам](https://habr.com/ru/companies/oleg-bunin/articles/902932/) <br>
 [Поговорим о централизованном логировании](https://habr.com/ru/articles/551582/) <br>
 [Практики SRE: стандартизация логов](https://habr.com/ru/companies/vitech/articles/854424/) <br>
