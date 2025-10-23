@@ -124,7 +124,6 @@
 [Кликозявый эластикозавр обзёрнообразный – ClickStack ](https://gavrilov.info/all/klikozyavy-elastikozavr-obzyornoobrazny-clickstack/) <br>
 [Uptrace v2.0: как новый JSON-тип ClickHouse ускорил запросы по трейсам в 10 раз](https://habr.com/ru/articles/957074/) <br>
 [How to successfully correlate metrics, logs, and traces in Grafana](https://grafana.com/blog/2020/03/31/how-to-successfully-correlate-metrics-logs-and-traces-in-grafana/) <br>
-[Как сделать централизованное логирование и крепко спать по ночам](https://habr.com/ru/companies/oleg-bunin/articles/902932/) <br>
 ## OpenTelemetry
 [Что такое OpenTelemetry и как она может улучшить качество ваших сервисов](https://tproger.ru/articles/chto-takoe-opentelemetry-i-kak-ona-mozhet-uluchwit-kachestvo-vawih-servisov) <br>
 [Scale Up Otel collector](https://opentelemetry.io/docs/collector/scaling/) <br>
@@ -172,6 +171,7 @@
 [Trace correlations](https://grafana.com/docs/grafana/latest/datasources/tempo/traces-in-grafana/trace-correlations/) <br>
 [Faro Web SDK](https://github.com/grafana/faro-web-sdk/) <br>
 ## Logs
+[Как сделать централизованное логирование и крепко спать по ночам](https://habr.com/ru/companies/oleg-bunin/articles/902932/) <br>
 [Поговорим о централизованном логировании](https://habr.com/ru/articles/551582/) <br>
 [Практики SRE: стандартизация логов](https://habr.com/ru/companies/vitech/articles/854424/) <br>
 [What are some standards when it comes to logging?](https://www.reddit.com/r/ExperiencedDevs/comments/143tray/what_are_some_standards_when_it_comes_to_logging/) <br>
