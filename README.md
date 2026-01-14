@@ -49,6 +49,8 @@
 ## Kafka
 [Kafka: ребалансировка изнутри](https://habr.com/ru/companies/ozontech/articles/910568/) <br>
 [Практика Kafka: проектирование топиков и обмен сообщениями](https://habr.com/ru/articles/944432/) <br>
+[Schema Registry с Protobuf в Kafka — зачем оно надо?](https://habr.com/ru/companies/lenta_utkonos_tech/articles/715298/) <br>
+[Публикация protobuf-сообщений и использование реестра схем Kafka](https://bigdataschool.ru/blog/news/kafka/kafka-producer-protobuf-and-schema-registry/) <br>
 ## Cassandra
 [Развёртывание боевого кластера Cassandra. Часть 1](https://habr.com/ru/articles/924634/) <br>
 # DataWareHouse, DataLake, LakeHouse, MPP, OLAP, ETL
