@@ -37,6 +37,7 @@
 [Оптимизация Redis для высоких нагрузок: полное руководство](https://habr.com/ru/companies/selectel/articles/931760/) <br>
 [Повышаем производительность Redis: советы для начинающих](https://habr.com/ru/companies/psb/articles/944890/) <br>
 [Оптимизируем производительность веб-приложения с Redis](https://habr.com/ru/companies/cloud_ru/articles/956794/) <br>
+[Это база: нюансы работы с Redis. Часть 1](https://habr.com/ru/companies/nixys/articles/765694/) <br>
 ## PostgreSQL
 [Как обновить PostgreSQL и не потерять данные: метод минимизации простоя](https://habr.com/ru/companies/flant/articles/866250/) <br>
 [Как мы в ВТБ автоматизировали мажорное обновление PostgreSQL](https://habr.com/ru/companies/vtb/articles/945942/) <br>
