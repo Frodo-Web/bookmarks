@@ -40,6 +40,7 @@
 [Это база: нюансы работы с Redis. Часть 1](https://habr.com/ru/companies/nixys/articles/765694/) <br>
 [Отказоустойчивая работа с Redis](https://habr.com/ru/companies/ispring/articles/562086/) <br>
 [Redis pipelining](https://redis.io/docs/latest/develop/using-commands/pipelining/) <br>
+[High availability with Redis Sentinel](https://redis.io/docs/latest/operate/oss_and_stack/management/sentinel/) <br>
 ## PostgreSQL
 [Как обновить PostgreSQL и не потерять данные: метод минимизации простоя](https://habr.com/ru/companies/flant/articles/866250/) <br>
 [Как мы в ВТБ автоматизировали мажорное обновление PostgreSQL](https://habr.com/ru/companies/vtb/articles/945942/) <br>
