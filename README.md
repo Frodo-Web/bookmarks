@@ -65,6 +65,7 @@
 ## RabbitMQ
 [Queues, Exchanges, and Bindings: The Core of RabbitMQ](https://medium.com/@pakhale.dipak95/queues-exchanges-and-bindings-the-core-of-rabbitmq-9533ebfc49eb) <br>
 ## Cassandra
+[Сassandra для бедных — пускаем в ход HDD](https://habr.com/ru/articles/738304/) <br>
 [Развёртывание боевого кластера Cassandra. Часть 1](https://habr.com/ru/articles/924634/) <br>
 # DataWareHouse, DataLake, LakeHouse, MPP, OLAP, ETL
 [ClickHouse уже не один: StarRocks показывает, что lakehouse-аналитика может быть проще и быстрее»](https://habr.com/ru/articles/956334/) <br>
