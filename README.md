@@ -29,6 +29,7 @@
 # Quality Assurance
 [Моки в тестировании микросервисов с кучей интеграций — кейс финтех-приложения](https://habr.com/ru/companies/agima/articles/931814/) <br>
 # DBA
+[Indexing, Memory and Database](https://medium.com/@dresraceran/indexing-memory-and-database-0c402c3c394a) <br>
 ## YDB
 [Как мы ускорили заливку данных в YDB в 40 раз](https://habr.com/ru/companies/flocktory/articles/946454/) <br>
 [Запустили векторный поиск в YDB: рассказываем, как он работает](https://habr.com/ru/companies/yandex/articles/926724/) <br>
