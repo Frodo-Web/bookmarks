@@ -101,6 +101,8 @@
 [Kubernetes Scheduler в Деталях: Ключевые Концепции. Часть 2](https://habr.com/ru/companies/otus/articles/771136/) <br>
 [Deep Dive into Kubernetes External Traffic Policies](https://www.asykim.com/blog/deep-dive-into-kubernetes-external-traffic-policies) <br>
 [Back to Basics: Kubernetes Admission Webhooks](https://medium.com/geekculture/back-to-basics-kubernetes-admission-webhooks-dbf6baffb0f1) <br>
+### Vault
+[Vault8s: доставляем секреты из HashiCorp Vault в Kubernetes](https://habr.com/ru/companies/oleg-bunin/articles/919234/) <br>
 ### Service Mesh
 [Istio: паттерны управления трафиком, авторизация, canary, observability, проброс заголовков](https://habr.com/ru/companies/flant/articles/438426/) <br>
 [Istio: mirroring, A/B, canary, timeout, retry, circuit breaker, bulkhead](https://habr.com/ru/companies/flant/articles/440378/) <br>
