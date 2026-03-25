@@ -90,6 +90,7 @@
 [Балансировка нагрузки: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/955202/) <br>
 [Внедрение API Gateway: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/950838/) <br>
 ## Kubernetes
+[Аварийные учения в Kubernetes: выключили часть нод и проверили, переживут ли это сервисы](https://habr.com/ru/articles/1014580/) <br>
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
 [Снапшоты в Kubernetes: что это и как ими пользоваться](https://habr.com/ru/companies/flant/articles/676678/) <br>
 [Успех секрета: как доставлять секреты в приложения безопасно и без головной боли](https://habr.com/ru/companies/flant/articles/932862/) <br>
