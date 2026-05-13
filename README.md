@@ -12,6 +12,7 @@
 [Искусство проектирования URL: Роутинг, Query и Hash параметры](https://habr.com/ru/articles/943918/) <br>
 [Серверные прокси — что это, особенности и примеры использования](https://habr.com/ru/articles/957574/) <br>
 [Почему мы отказываемся от serverless](https://habr.com/ru/articles/958814/) <br>
+[10 ошибок API](https://habr.com/ru/articles/1013924/) <br>
 # Паттерны микросервисной архитектуры
 [Circuit breaker, timeout, bulkhead, retry, fallback, rate limiter](https://habr.com/ru/companies/otus/articles/778574/) <br>
 [Взаимодействие микросервисов: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/933110/) <br>
