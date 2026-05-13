@@ -20,6 +20,8 @@
 # Chaos Engineering
 [Обзор инструментов для chaos engineering в Kubernetes. Часть 1: kube-monkey, chaoskube, Chaos Mesh](https://habr.com/ru/companies/flant/articles/527664/) <br>
 # Languages
+## Java, and JVM using languages
+[Сравнение моделей конкурентности JVM языков: Треды, Пулы и Structured Concurrency](https://habr.com/ru/articles/1033894/) <br>
 ## Golang
 [Диагностика с помощью pprof в Golang](https://habr.com/ru/articles/918738/) <br>
 [Application layer на примере Go](https://habr.com/ru/companies/otus/articles/913532/) <br>
