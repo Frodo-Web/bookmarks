@@ -17,6 +17,7 @@
 # Паттерны микросервисной архитектуры
 [Circuit breaker, timeout, bulkhead, retry, fallback, rate limiter](https://habr.com/ru/companies/otus/articles/778574/) <br>
 [Взаимодействие микросервисов: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/933110/) <br>
+[Saga Pattern in Microservices](https://www.baeldung.com/cs/saga-pattern-microservices) <br>
 # Проблемы из опыта
 [DNS-хаос, зомби-поды и майнеры в кластере: самые невероятные случаи при работе с Kubernetes](https://habr.com/ru/companies/flant/articles/931902/) <br>
 # Chaos Engineering
