@@ -20,6 +20,10 @@
 [Взаимодействие микросервисов: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/933110/) <br>
 [Saga Pattern in Microservices](https://www.baeldung.com/cs/saga-pattern-microservices) <br>
 [Service Discovery in Microservices](https://www.baeldung.com/cs/service-discovery-microservices) <br>
+# Разработка приложений и сервисов
+## Python
+### WSGI
+[Отказоустойчивый запуск WSGI приложения. Обзор архитектуры Gunicorn](https://habr.com/ru/companies/domclick/articles/882042/) <br>
 # Проблемы из опыта
 [DNS-хаос, зомби-поды и майнеры в кластере: самые невероятные случаи при работе с Kubernetes](https://habr.com/ru/companies/flant/articles/931902/) <br>
 # Chaos Engineering
