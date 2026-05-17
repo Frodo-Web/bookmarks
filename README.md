@@ -28,6 +28,8 @@
 [Chris Richardson: Extracting the Delivery Service - Step 3: define standalone Delivery Service](https://microservices.io/refactoring/extract-service-delivery-service-step-3.html) <br>
 [Chris Richardson: Extracting the Delivery Service - Step 4: using new Delivery Service](https://microservices.io/refactoring/extract-service-delivery-service-step-4.html) <br>
 [Chris Richardson: Extracting the Delivery Service - Step 5, Removing obsolete code from the monolith](https://microservices.io/refactoring/extract-service-delivery-service-step-5.html) <br>
+[Microservices Antipattern: The Distributed Monolith 🛠️](https://mehmetozkaya.medium.com/microservices-antipattern-the-distributed-monolith-%EF%B8%8F-46d12281b3c2) <br>
+[Чеклист "Мои микросервисы - это распределенный монолит?"](https://gist.github.com/r3code/39a6429b5fe0c2aa3f91851b878d202e) <br>
 # Разработка приложений и сервисов
 ## Python
 ### WSGI
