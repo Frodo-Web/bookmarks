@@ -20,6 +20,13 @@
 [Взаимодействие микросервисов: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/933110/) <br>
 [Saga Pattern in Microservices](https://www.baeldung.com/cs/saga-pattern-microservices) <br>
 [Service Discovery in Microservices](https://www.baeldung.com/cs/service-discovery-microservices) <br>
+# Monolith to Microservices Refactoring
+[Chris Richardson: Example of extracting a service from monolith](https://microservices.io/refactoring/example-of-extracting-a-service.html) <br>
+[Chris Richardson: Extracting the Delivery Service - Step 1, Split the code](https://microservices.io/refactoring/extract-service-delivery-service-step-1.html) <br>
+[Chris Richardson: Extracting the Delivery Service - Step 2, Split the database](https://microservices.io/refactoring/extract-service-delivery-service-step-2.html) <br>
+[Chris Richardson: Extracting the Delivery Service - Step 3: define standalone Delivery Service](https://microservices.io/refactoring/extract-service-delivery-service-step-3.html) <br>
+[Chris Richardson: Extracting the Delivery Service - Step 4: using new Delivery Service](https://microservices.io/refactoring/extract-service-delivery-service-step-4.html) <br>
+[Chris Richardson: Extracting the Delivery Service - Step 5, Removing obsolete code from the monolith](https://microservices.io/refactoring/extract-service-delivery-service-step-5.html) <br>
 # Разработка приложений и сервисов
 ## Python
 ### WSGI
