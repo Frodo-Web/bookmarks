@@ -21,6 +21,7 @@
 [Saga Pattern in Microservices](https://www.baeldung.com/cs/saga-pattern-microservices) <br>
 [Service Discovery in Microservices](https://www.baeldung.com/cs/service-discovery-microservices) <br>
 # Monolith to Microservices Refactoring
+[Chris Richardson: Pattern: Strangler application](https://microservices.io/patterns/refactoring/strangler-application.html) <br>
 [Chris Richardson: Example of extracting a service from monolith](https://microservices.io/refactoring/example-of-extracting-a-service.html) <br>
 [Chris Richardson: Extracting the Delivery Service - Step 1, Split the code](https://microservices.io/refactoring/extract-service-delivery-service-step-1.html) <br>
 [Chris Richardson: Extracting the Delivery Service - Step 2, Split the database](https://microservices.io/refactoring/extract-service-delivery-service-step-2.html) <br>
