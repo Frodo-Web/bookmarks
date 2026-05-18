@@ -113,6 +113,7 @@
 [UDP прокси в повседневной жизни: что это и как использовать — чем UDP прокси отличаются от других видов прокси](https://habr.com/ru/articles/944076/) <br>
 [Балансировка нагрузки: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/955202/) <br>
 [Внедрение API Gateway: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/950838/) <br>
+[Server Side Includes (SSI) & Edge Side Includes (ESI)](https://medium.com/@yasmeena_rezk/server-side-includes-ssi-edge-side-includes-esi-13a8fc042e81) <br>
 ## Kubernetes
 [Аварийные учения в Kubernetes: выключили часть нод и проверили, переживут ли это сервисы](https://habr.com/ru/articles/1014580/) <br>
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
