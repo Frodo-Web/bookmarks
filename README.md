@@ -15,6 +15,8 @@
 [10 ошибок API](https://habr.com/ru/articles/1013924/) <br>
 [Avoiding Transactions Across Microservices](https://www.baeldung.com/transactions-across-microservices) <br>
 [Context Design Patterns](https://www.baeldung.com/cs/context-design-pattern) <br>
+## Миграции сервисов и архитектур
+[gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) <br>
 # Паттерны микросервисной архитектуры
 [Circuit breaker, timeout, bulkhead, retry, fallback, rate limiter](https://habr.com/ru/companies/otus/articles/778574/) <br>
 [Взаимодействие микросервисов: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/933110/) <br>
