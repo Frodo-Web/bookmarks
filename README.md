@@ -46,6 +46,8 @@
 # Разработка приложений и сервисов
 ## Refactoring serivces
 [Scientist - A Ruby library for carefully refactoring critical paths](https://github.com/github/scientist) <br>
+## UI
+[UMT2016 - John Sundell - Building component-driven UIs at Spotify](https://www.youtube.com/watch?v=vuCfKjOwZdU) <br>
 ## Python
 ### WSGI
 [Отказоустойчивый запуск WSGI приложения. Обзор архитектуры Gunicorn](https://habr.com/ru/companies/domclick/articles/882042/) <br>
