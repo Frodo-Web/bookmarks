@@ -18,12 +18,7 @@
 ## Миграции сервисов и архитектур
 [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) <br>
 [gRPC Web](https://github.com/grpc/grpc-web/tree/master) <br>
-# Паттерны микросервисной архитектуры
-[Circuit breaker, timeout, bulkhead, retry, fallback, rate limiter](https://habr.com/ru/companies/otus/articles/778574/) <br>
-[Взаимодействие микросервисов: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/933110/) <br>
-[Saga Pattern in Microservices](https://www.baeldung.com/cs/saga-pattern-microservices) <br>
-[Service Discovery in Microservices](https://www.baeldung.com/cs/service-discovery-microservices) <br>
-# Monolith to Microservices Refactoring
+### Monolith to Microservices Refactoring
 [Chris Richardson: Pattern: Strangler application](https://microservices.io/patterns/refactoring/strangler-application.html) <br>
 [Chris Richardson: Example of extracting a service from monolith](https://microservices.io/refactoring/example-of-extracting-a-service.html) <br>
 [Chris Richardson: Extracting the Delivery Service - Step 1, Split the code](https://microservices.io/refactoring/extract-service-delivery-service-step-1.html) <br>
@@ -33,6 +28,13 @@
 [Chris Richardson: Extracting the Delivery Service - Step 5, Removing obsolete code from the monolith](https://microservices.io/refactoring/extract-service-delivery-service-step-5.html) <br>
 [Microservices Antipattern: The Distributed Monolith 🛠️](https://mehmetozkaya.medium.com/microservices-antipattern-the-distributed-monolith-%EF%B8%8F-46d12281b3c2) <br>
 [Чеклист "Мои микросервисы - это распределенный монолит?"](https://gist.github.com/r3code/39a6429b5fe0c2aa3f91851b878d202e) <br>
+## Паттерны микросервисной архитектуры
+[Circuit breaker, timeout, bulkhead, retry, fallback, rate limiter](https://habr.com/ru/companies/otus/articles/778574/) <br>
+[Взаимодействие микросервисов: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/933110/) <br>
+[Saga Pattern in Microservices](https://www.baeldung.com/cs/saga-pattern-microservices) <br>
+[Service Discovery in Microservices](https://www.baeldung.com/cs/service-discovery-microservices) <br>
+# AI and ML
+[Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production](https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production) <br>
 # Разработка приложений и сервисов
 ## Python
 ### WSGI
