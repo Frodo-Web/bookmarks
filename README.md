@@ -44,6 +44,8 @@
 [What is GraphRAG?](https://www.ibm.com/think/topics/graphrag) <br>
 [Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production](https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production) <br>
 # Разработка приложений и сервисов
+## Refactoring serivces
+[Scientist - A Ruby library for carefully refactoring critical paths](https://github.com/github/scientist) <br>
 ## Python
 ### WSGI
 [Отказоустойчивый запуск WSGI приложения. Обзор архитектуры Gunicorn](https://habr.com/ru/companies/domclick/articles/882042/) <br>
