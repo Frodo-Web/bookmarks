@@ -39,8 +39,9 @@
 [What is hybrid search?](https://www.elastic.co/what-is/hybrid-search) <br>
 ### Vector databases
 [RAG vector databases, defined](https://www.ibm.com/think/topics/rag-vector-database) <br>
-[ What is vector embedding? ](https://www.ibm.com/think/topics/vector-embedding) <br>
+[What is vector embedding?](https://www.ibm.com/think/topics/vector-embedding) <br>
 ### Graph-Enhanced RAG
+[What is GraphRAG?](https://www.ibm.com/think/topics/graphrag) <br>
 [Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production](https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production) <br>
 # Разработка приложений и сервисов
 ## Python
