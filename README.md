@@ -34,6 +34,9 @@
 [Saga Pattern in Microservices](https://www.baeldung.com/cs/saga-pattern-microservices) <br>
 [Service Discovery in Microservices](https://www.baeldung.com/cs/service-discovery-microservices) <br>
 # AI and ML
+## RAG
+[Retrieval-Augmented Generation (RAG): A Comprehensive Guide to Smarter, More Accurate AI](https://shiftasia.com/community/retrieval-augmented-generation-rag-a-comprehensive-guide-to-smarter-more-accurate-ai/) <br>
+### Graph-Enhanced RAG
 [Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production](https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production) <br>
 # Разработка приложений и сервисов
 ## Python
