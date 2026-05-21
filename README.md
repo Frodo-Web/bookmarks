@@ -34,6 +34,8 @@
 [Saga Pattern in Microservices](https://www.baeldung.com/cs/saga-pattern-microservices) <br>
 [Service Discovery in Microservices](https://www.baeldung.com/cs/service-discovery-microservices) <br>
 # AI and ML
+## Code Agents
+[CodeGraph - a pre-indexed knowledge graph — symbol relationships, call graphs, and code structure](https://github.com/colbymchenry/codegraph) <br>
 ## RAG
 [Retrieval-Augmented Generation (RAG): A Comprehensive Guide to Smarter, More Accurate AI](https://shiftasia.com/community/retrieval-augmented-generation-rag-a-comprehensive-guide-to-smarter-more-accurate-ai/) <br>
 [What is hybrid search?](https://www.elastic.co/what-is/hybrid-search) <br>
