@@ -15,6 +15,8 @@
 [10 ошибок API](https://habr.com/ru/articles/1013924/) <br>
 [Avoiding Transactions Across Microservices](https://www.baeldung.com/transactions-across-microservices) <br>
 [Context Design Patterns](https://www.baeldung.com/cs/context-design-pattern) <br>
+## Архитектурный анализ
+[Schemaspy - Database documentation built easy](https://github.com/schemaspy/schemaspy) <br>
 ## Миграции баз, сервисов и архитектур
 [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) <br>
 [gRPC Web](https://github.com/grpc/grpc-web/tree/master) <br>
