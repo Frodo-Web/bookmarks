@@ -15,10 +15,12 @@
 [10 ошибок API](https://habr.com/ru/articles/1013924/) <br>
 [Avoiding Transactions Across Microservices](https://www.baeldung.com/transactions-across-microservices) <br>
 [Context Design Patterns](https://www.baeldung.com/cs/context-design-pattern) <br>
-## Миграции сервисов и архитектур
+## Миграции баз, сервисов и архитектур
 [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) <br>
 [gRPC Web](https://github.com/grpc/grpc-web/tree/master) <br>
 [Safely making database schema changes](https://planetscale.com/blog/safely-making-database-schema-changes) <br>
+[Database Version Control](https://www.liquibase.com/resources/guides/database-version-control) <br>
+[State vs. Migration-Based Database Deployments: Best Practices for Change Management](https://www.liquibase.com/blog/database-deployments-state-database-migration) <br>
 ### Monolith to Microservices Refactoring
 [Chris Richardson: Pattern: Strangler application](https://microservices.io/patterns/refactoring/strangler-application.html) <br>
 [Chris Richardson: Example of extracting a service from monolith](https://microservices.io/refactoring/example-of-extracting-a-service.html) <br>
