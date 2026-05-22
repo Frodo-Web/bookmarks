@@ -21,6 +21,7 @@
 [Safely making database schema changes](https://planetscale.com/blog/safely-making-database-schema-changes) <br>
 [Database Version Control](https://www.liquibase.com/resources/guides/database-version-control) <br>
 [State vs. Migration-Based Database Deployments: Best Practices for Change Management](https://www.liquibase.com/blog/database-deployments-state-database-migration) <br>
+[Database Schema Migration](https://www.liquibase.com/resources/guides/database-schema-migration) <br>
 ### Monolith to Microservices Refactoring
 [Chris Richardson: Pattern: Strangler application](https://microservices.io/patterns/refactoring/strangler-application.html) <br>
 [Chris Richardson: Example of extracting a service from monolith](https://microservices.io/refactoring/example-of-extracting-a-service.html) <br>
