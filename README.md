@@ -77,6 +77,7 @@
 # DBA
 [Indexing, Memory and Database](https://medium.com/@dresraceran/indexing-memory-and-database-0c402c3c394a) <br>
 [Understanding Database Isolation Levels from My Perspective](https://hosseinnejati.medium.com/understanding-database-isolation-levels-from-my-perspective-27f261eeb976) <br>
+[MVCC-1. Изоляция - цикл серий по внутренней работе PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/442804/) <br>
 ## YDB
 [Как мы ускорили заливку данных в YDB в 40 раз](https://habr.com/ru/companies/flocktory/articles/946454/) <br>
 [Запустили векторный поиск в YDB: рассказываем, как он работает](https://habr.com/ru/companies/yandex/articles/926724/) <br>
