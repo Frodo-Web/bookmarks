@@ -42,6 +42,8 @@
 # AI and ML
 ## Code Agents
 [CodeGraph - a pre-indexed knowledge graph — symbol relationships, call graphs, and code structure](https://github.com/colbymchenry/codegraph) <br>
+### Plugins
+[Understand Anything - Turn any code into an interactive knowledge graph you can explore](https://github.com/Lum1104/Understand-Anything) <br>
 ## RAG
 [Retrieval-Augmented Generation (RAG): A Comprehensive Guide to Smarter, More Accurate AI](https://shiftasia.com/community/retrieval-augmented-generation-rag-a-comprehensive-guide-to-smarter-more-accurate-ai/) <br>
 [What is hybrid search?](https://www.elastic.co/what-is/hybrid-search) <br>
