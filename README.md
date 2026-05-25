@@ -39,6 +39,7 @@
 [Взаимодействие микросервисов: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/933110/) <br>
 [Saga Pattern in Microservices](https://www.baeldung.com/cs/saga-pattern-microservices) <br>
 [Service Discovery in Microservices](https://www.baeldung.com/cs/service-discovery-microservices) <br>
+[Pattern: Using Pseudo-URIs with Microservices](https://philcalcado.com/2017/03/22/pattern_using_seudo-uris_with_microservices.html) <br>
 # AI and ML
 ## Code Agents
 [CodeGraph - a pre-indexed knowledge graph — symbol relationships, call graphs, and code structure](https://github.com/colbymchenry/codegraph) <br>
