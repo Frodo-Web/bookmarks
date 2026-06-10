@@ -155,17 +155,16 @@
 [Deep Dive into Kubernetes External Traffic Policies](https://www.asykim.com/blog/deep-dive-into-kubernetes-external-traffic-policies) <br>
 [Back to Basics: Kubernetes Admission Webhooks](https://medium.com/geekculture/back-to-basics-kubernetes-admission-webhooks-dbf6baffb0f1) <br>
 [Build Your Own Kubernetes Operators with Go and Kubebuilder – Full Course](https://www.youtube.com/watch?v=odP153inZUo) <br>
-### Service Mesh
-[Ambient Mesh: mTLS for all traffic, even within the same node](https://www.solo.io/blog/ambient-mesh-mtls-for-all-traffic-even-within-the-same-node) <br>
-[Istio Ambient - HTTP Observability Without Compromises](https://www.solo.io/blog/http-observability-without-compromises) <br>
-[Сравнение архитектур Service Mesh и Ambient Mesh: новый взгляд на Istio](https://habr.com/ru/articles/869630/) <br>
-[Understanding Istio Ambient Ztunnel and Secure Overlay](https://www.solo.io/blog/understanding-istio-ambient-ztunnel-and-secure-overlay) <br>
 ### Vault
 [Vault8s: доставляем секреты из HashiCorp Vault в Kubernetes](https://habr.com/ru/companies/oleg-bunin/articles/919234/) <br>
 ### Service Mesh
 [Istio: паттерны управления трафиком, авторизация, canary, observability, проброс заголовков](https://habr.com/ru/companies/flant/articles/438426/) <br>
 [Istio: mirroring, A/B, canary, timeout, retry, circuit breaker, bulkhead](https://habr.com/ru/companies/flant/articles/440378/) <br>
 [Как мы внедряли Service Mesh и не утонули в сложностях: реальный кейс Orion soft](https://habr.com/ru/companies/orion_soft/articles/932118/) <br>
+[Ambient Mesh: mTLS for all traffic, even within the same node](https://www.solo.io/blog/ambient-mesh-mtls-for-all-traffic-even-within-the-same-node) <br>
+[Istio Ambient - HTTP Observability Without Compromises](https://www.solo.io/blog/http-observability-without-compromises) <br>
+[Сравнение архитектур Service Mesh и Ambient Mesh: новый взгляд на Istio](https://habr.com/ru/articles/869630/) <br>
+[Understanding Istio Ambient Ztunnel and Secure Overlay](https://www.solo.io/blog/understanding-istio-ambient-ztunnel-and-secure-overlay) <br>
 ## Kubevirt
 [KubeVirt: глубокое погружение для администраторов VMware vSphere](https://habr.com/ru/companies/flant/articles/915942/) <br>
 ## Containers
