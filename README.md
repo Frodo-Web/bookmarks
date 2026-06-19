@@ -121,7 +121,9 @@
 # DataWareHouse, DataLake, LakeHouse, MPP, OLAP, ETL
 [ClickHouse уже не один: StarRocks показывает, что lakehouse-аналитика может быть проще и быстрее»](https://habr.com/ru/articles/956334/) <br>
 [Нужна ли нам Lakehouse архитектура?](https://habr.com/ru/companies/otus/articles/823336/) <br>
-
+# Authentication & Authorization
+## OAuth 2.0
+[OAuth 2.0 by Beget](https://habr.com/ru/companies/beget/articles/886874/) <br>
 # Infra
 ## Hardware
 [Введение в SSD. Часть 2. Интерфейсная](https://habr.com/ru/companies/selectel/articles/478684/) <br>
