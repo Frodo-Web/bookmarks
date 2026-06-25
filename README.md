@@ -157,6 +157,7 @@
 [Deep Dive into Kubernetes External Traffic Policies](https://www.asykim.com/blog/deep-dive-into-kubernetes-external-traffic-policies) <br>
 [Back to Basics: Kubernetes Admission Webhooks](https://medium.com/geekculture/back-to-basics-kubernetes-admission-webhooks-dbf6baffb0f1) <br>
 [Build Your Own Kubernetes Operators with Go and Kubebuilder – Full Course](https://www.youtube.com/watch?v=odP153inZUo) <br>
+[Соблюдай, или must die: правила безопасного обновления Kubernetes до новой версии](https://habr.com/ru/companies/vk/articles/772346/) <br>
 ### Vault
 [Vault8s: доставляем секреты из HashiCorp Vault в Kubernetes](https://habr.com/ru/companies/oleg-bunin/articles/919234/) <br>
 ### Service Mesh
