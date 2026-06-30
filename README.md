@@ -147,6 +147,7 @@
 [Server Side Includes (SSI) & Edge Side Includes (ESI)](https://medium.com/@yasmeena_rezk/server-side-includes-ssi-edge-side-includes-esi-13a8fc042e81) <br>
 ### CDN
 [Как сделать и настроить свой CDN](https://habr.com/ru/articles/810241/) <br>
+[Создаём и настраиваем собственную CDN](https://habr.com/ru/companies/ruvds/articles/709548/) <br>
 ## Kubernetes
 [Аварийные учения в Kubernetes: выключили часть нод и проверили, переживут ли это сервисы](https://habr.com/ru/articles/1014580/) <br>
 [Kubean - основанный на kubespray, ansible распилен на CRD, kubespray джобы, kubean-operator](https://kubean-io.github.io/kubean/en/) <br>
