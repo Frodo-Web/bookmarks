@@ -204,6 +204,8 @@
 [Кликозявый эластикозавр обзёрнообразный – ClickStack ](https://gavrilov.info/all/klikozyavy-elastikozavr-obzyornoobrazny-clickstack/) <br>
 [Uptrace v2.0: как новый JSON-тип ClickHouse ускорил запросы по трейсам в 10 раз](https://habr.com/ru/articles/957074/) <br>
 [How to successfully correlate metrics, logs, and traces in Grafana](https://grafana.com/blog/2020/03/31/how-to-successfully-correlate-metrics-logs-and-traces-in-grafana/) <br>
+## AI-Driven Observability
+[Как настроить глубокий и понятный мониторинг для PostgreSQL с ИИ на основе Prometheus, TaskTracker и Pipeliner](https://habr.com/ru/companies/sberbank/articles/1051076/) <br>
 ## OpenTelemetry
 [Что такое OpenTelemetry и как она может улучшить качество ваших сервисов](https://tproger.ru/articles/chto-takoe-opentelemetry-i-kak-ona-mozhet-uluchwit-kachestvo-vawih-servisov) <br>
 [Scale Up Otel collector](https://opentelemetry.io/docs/collector/scaling/) <br>
