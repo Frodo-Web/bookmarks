@@ -109,6 +109,7 @@
 [ClickHouse: сценарии, сильные стороны, лучшие практики работы в 2026 году](https://habr.com/ru/companies/vktech/articles/1061284/) <br>
 ## Kafka
 [Как использовать Kafka на собеседовании по System Design](https://habr.com/ru/articles/1052700/) <br>
+[Действительно ли Apache Kafka сохраняет правильный порядок сообщений?](https://habr.com/ru/companies/slurm/articles/743336/) <br>
 [Kafka: ребалансировка изнутри](https://habr.com/ru/companies/ozontech/articles/910568/) <br>
 [Практика Kafka: проектирование топиков и обмен сообщениями](https://habr.com/ru/articles/944432/) <br>
 [Schema Registry с Protobuf в Kafka — зачем оно надо?](https://habr.com/ru/companies/lenta_utkonos_tech/articles/715298/) <br>
