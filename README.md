@@ -203,6 +203,7 @@
 [S3 в мире Kubernetes: как объектное хранилище сделать частью контейнеров (подход от команды Deckhouse)](https://habr.com/ru/companies/flant/articles/910938/) <br>
 [Тысячи асинхронных задач в секунду в облачных s3 на Rust/Axum/Tokio: шлифуем ржавчину до блеска](https://habr.com/ru/companies/oleg-bunin/articles/947104/) <br>
 # O11y
+[StatsHouse](https://github.com/vkcom/statshouse) <br>
 [Концепция контрактов наблюдаемости](https://habr.com/ru/companies/spring_aio/articles/987358/) <br>
 [LLM observability with ClickStack, OpenTelemetry, and MCP](https://clickhouse.com/blog/llm-observability-clickstack-mcp) <br>
 [ClickHouse как бэкенд для Prometheus](https://habr.com/ru/articles/799791/) <br>
