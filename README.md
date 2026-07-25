@@ -16,6 +16,7 @@
 [Avoiding Transactions Across Microservices](https://www.baeldung.com/transactions-across-microservices) <br>
 [Context Design Patterns](https://www.baeldung.com/cs/context-design-pattern) <br>
 ## System Design, проектирование сервисов
+[System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction) <br>
 [System Design: проектируем Rate Limiter, ограничитель запросов](https://habr.com/ru/articles/1044528/) <br>
 [System Design: проектируем Dropbox, сервис для хранения и обмена файлами](https://habr.com/ru/articles/1032184/) <br>
 ## Архитектурный анализ
