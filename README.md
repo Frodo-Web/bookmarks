@@ -106,6 +106,7 @@
 ## Clickhouse
 [Distributed table vs External Load Balancer + MergeTree to ReplicatedMergeTree transition](https://github.com/ClickHouse/ClickHouse/issues/2161) <br>
 [Sparse primary indexes](https://clickhouse.com/docs/ru/primary-indexes?ysclid=mdpnrwg3yl220917909) <br>
+[ClickHouse: сценарии, сильные стороны, лучшие практики работы в 2026 году](https://habr.com/ru/companies/vktech/articles/1061284/) <br>
 ## Kafka
 [Kafka: ребалансировка изнутри](https://habr.com/ru/companies/ozontech/articles/910568/) <br>
 [Практика Kafka: проектирование топиков и обмен сообщениями](https://habr.com/ru/articles/944432/) <br>
