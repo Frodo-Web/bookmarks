@@ -210,6 +210,7 @@
 [Тысячи асинхронных задач в секунду в облачных s3 на Rust/Axum/Tokio: шлифуем ржавчину до блеска](https://habr.com/ru/companies/oleg-bunin/articles/947104/) <br>
 [How Amazon S3 Tables use compaction to improve query performance by up to 3 times](https://aws.amazon.com/blogs/storage/how-amazon-s3-tables-use-compaction-to-improve-query-performance-by-up-to-3-times/) <br>
 [Проблема маленьких файлов. Оценка замедления S3 и проблем HDFS и Greenplum при работе c ними](https://habr.com/ru/companies/datasapience/articles/941046/) <br>
+[Разбираемся, что такое S3 и делаем простое объектное хранилище на Go](https://habr.com/ru/companies/cdnnow/articles/840874/) <br>
 # O11y
 [StatsHouse](https://github.com/vkcom/statshouse) <br>
 [Концепция контрактов наблюдаемости](https://habr.com/ru/companies/spring_aio/articles/987358/) <br>
