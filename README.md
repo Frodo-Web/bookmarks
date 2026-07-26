@@ -47,6 +47,8 @@
 # AI and ML
 ## Code Agents
 [CodeGraph - a pre-indexed knowledge graph — symbol relationships, call graphs, and code structure](https://github.com/colbymchenry/codegraph) <br>
+## MCP
+[MCP Gateway: когда инструменты перестают быть интеграцией и становятся архитектурой](https://habr.com/ru/companies/runity/articles/1060856/) <br>
 ### Plugins
 [Understand Anything - Turn any code into an interactive knowledge graph you can explore](https://github.com/Lum1104/Understand-Anything) <br>
 ## RAG
