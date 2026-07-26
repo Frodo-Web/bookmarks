@@ -212,6 +212,7 @@
 [How Amazon S3 Tables use compaction to improve query performance by up to 3 times](https://aws.amazon.com/blogs/storage/how-amazon-s3-tables-use-compaction-to-improve-query-performance-by-up-to-3-times/) <br>
 [Проблема маленьких файлов. Оценка замедления S3 и проблем HDFS и Greenplum при работе c ними](https://habr.com/ru/companies/datasapience/articles/941046/) <br>
 [Разбираемся, что такое S3 и делаем простое объектное хранилище на Go](https://habr.com/ru/companies/cdnnow/articles/840874/) <br>
+[S3: возможности протокола и паттерны использования](https://habr.com/ru/companies/runity/articles/898710/) <br>
 # O11y
 [StatsHouse](https://github.com/vkcom/statshouse) <br>
 [Концепция контрактов наблюдаемости](https://habr.com/ru/companies/spring_aio/articles/987358/) <br>
