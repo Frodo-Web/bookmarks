@@ -175,6 +175,7 @@
 [Build Your Own Kubernetes Operators with Go and Kubebuilder – Full Course](https://www.youtube.com/watch?v=odP153inZUo) <br>
 [Соблюдай, или must die: правила безопасного обновления Kubernetes до новой версии](https://habr.com/ru/companies/vk/articles/772346/) <br>
 [Метаконтроллеры в k8s](https://metacontroller.github.io/metacontroller/guide/create.html) <br>
+[Почему при rolling update летят 502, хотя readiness-проба на месте](https://habr.com/ru/articles/1062020/) <br>
 ### Vault
 [Vault8s: доставляем секреты из HashiCorp Vault в Kubernetes](https://habr.com/ru/companies/oleg-bunin/articles/919234/) <br>
 ### Service Mesh
