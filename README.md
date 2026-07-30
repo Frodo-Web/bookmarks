@@ -302,3 +302,4 @@
 # SRE
 [SRE in 100 lessons](https://sre.in100.dev/) <br>
 [SLA, SLO, SLI простыми словами и с примерами](https://habr.com/ru/articles/956318/) <br>
+[What’s the P99 Latency?](https://www.baeldung.com/cs/whats-the-p99-latency) <br>
