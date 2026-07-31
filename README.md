@@ -93,6 +93,7 @@
 [FIO Benchmark In-Depth Exploration Sharing](https://medium.com/@wrightchen/fio-benchmark-in-depth-exploration-sharing-f7b905c3dfcb) <br>
 ## Генерация нагрузки, нагрузочное тестирование, бенчмаркинг
 [Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/) <br>
+[Нагрузочное тестирование: наш опыт, методология и результаты. Делимся внутренней кухней](https://habr.com/ru/companies/lansoft_career/articles/1061680/) <br>
 # DBA
 [Indexing, Memory and Database](https://medium.com/@dresraceran/indexing-memory-and-database-0c402c3c394a) <br>
 [Understanding Database Isolation Levels from My Perspective](https://hosseinnejati.medium.com/understanding-database-isolation-levels-from-my-perspective-27f261eeb976) <br>
