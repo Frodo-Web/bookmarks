@@ -294,6 +294,8 @@
 [Трансформация и отправка внутренних метрик и логов Vector](https://vector.dev/docs/administration/monitoring/) <br>
 # Security
 [Инвентаризируем контейнеры с помощью Wazuh-агента](https://habr.com/ru/companies/selectel/articles/1051876/) <br>
+## Hash
+[Как работает хэш-функция: простое объяснение принципа работы, примеры и применение](https://www.securitylab.ru/blog/personal/xiaomite-journal/361583.php) <br>
 # Генерация нагрузки, нагрузочное тестирование, бенчмаркинг
 [Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/) <br>
 ## CI/CD
