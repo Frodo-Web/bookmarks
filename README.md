@@ -89,6 +89,10 @@
 [Автотестирование кастомного K8s CNI: как правильно входить в ха… то есть поду](https://habr.com/ru/companies/cloud_ru/articles/1060958/) <br>
 ## Quality Assurance
 [Моки в тестировании микросервисов с кучей интеграций — кейс финтех-приложения](https://habr.com/ru/companies/agima/articles/931814/) <br>
+## FIO
+[FIO Benchmark In-Depth Exploration Sharing](https://medium.com/@wrightchen/fio-benchmark-in-depth-exploration-sharing-f7b905c3dfcb) <br>
+## Генерация нагрузки, нагрузочное тестирование, бенчмаркинг
+[Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/) <br>
 # DBA
 [Indexing, Memory and Database](https://medium.com/@dresraceran/indexing-memory-and-database-0c402c3c394a) <br>
 [Understanding Database Isolation Levels from My Perspective](https://hosseinnejati.medium.com/understanding-database-isolation-levels-from-my-perspective-27f261eeb976) <br>
@@ -304,14 +308,10 @@
 [Инвентаризируем контейнеры с помощью Wazuh-агента](https://habr.com/ru/companies/selectel/articles/1051876/) <br>
 ## Hash
 [Как работает хэш-функция: простое объяснение принципа работы, примеры и применение](https://www.securitylab.ru/blog/personal/xiaomite-journal/361583.php) <br>
-# Генерация нагрузки, нагрузочное тестирование, бенчмаркинг
-[Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/) <br>
 # CI/CD
 [Как мы вшили нагрузочное тестирование в CI/CD, чтобы не хоронить фичи в проде глубокой ночью](https://habr.com/ru/articles/946304/) <br>
 [Многоэтапные сборки в Docker: как уменьшить образ с 1,2 ГБ до 50 МБ](https://habr.com/ru/companies/netologyru/articles/1051714/) <br>
 [«С блэкджеком и CI/CD»: APT-репозиторий на базе GitHub и Cloudflare Workers](https://habr.com/ru/articles/1062422/) <br>
-## FIO
-[FIO Benchmark In-Depth Exploration Sharing](https://medium.com/@wrightchen/fio-benchmark-in-depth-exploration-sharing-f7b905c3dfcb) <br>
 # SRE
 [SRE in 100 lessons](https://sre.in100.dev/) <br>
 [SLA, SLO, SLI простыми словами и с примерами](https://habr.com/ru/articles/956318/) <br>
