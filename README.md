@@ -84,7 +84,10 @@
 [What is the consequence of using CGO_ENABLED=0?](https://www.reddit.com/r/golang/comments/pi97sp/what_is_the_consequence_of_using_cgo_enabled0/) <br>
 [Потоки, горутины, синхронизация и мьютексы в Go](https://habr.com/ru/articles/933464/) <br>
 [Деконструкция Go: Runtime или программа, которая запускает вашу программу. Часть 3.1](https://habr.com/ru/articles/1063194/) <br>
-# Quality Assurance
+# Тестирование
+## Функциональное тестирование
+[Автотестирование кастомного K8s CNI: как правильно входить в ха… то есть поду](https://habr.com/ru/companies/cloud_ru/articles/1060958/) <br>
+## Quality Assurance
 [Моки в тестировании микросервисов с кучей интеграций — кейс финтех-приложения](https://habr.com/ru/companies/agima/articles/931814/) <br>
 # DBA
 [Indexing, Memory and Database](https://medium.com/@dresraceran/indexing-memory-and-database-0c402c3c394a) <br>
@@ -307,9 +310,6 @@
 [Как мы вшили нагрузочное тестирование в CI/CD, чтобы не хоронить фичи в проде глубокой ночью](https://habr.com/ru/articles/946304/) <br>
 [Многоэтапные сборки в Docker: как уменьшить образ с 1,2 ГБ до 50 МБ](https://habr.com/ru/companies/netologyru/articles/1051714/) <br>
 [«С блэкджеком и CI/CD»: APT-репозиторий на базе GitHub и Cloudflare Workers](https://habr.com/ru/articles/1062422/) <br>
-# Тестирование
-## Функциональное тестирование
-[Автотестирование кастомного K8s CNI: как правильно входить в ха… то есть поду](https://habr.com/ru/companies/cloud_ru/articles/1060958/) <br>
 ## FIO
 [FIO Benchmark In-Depth Exploration Sharing](https://medium.com/@wrightchen/fio-benchmark-in-depth-exploration-sharing-f7b905c3dfcb) <br>
 # SRE
