@@ -129,9 +129,10 @@
 ## Cassandra
 [Сassandra для бедных — пускаем в ход HDD](https://habr.com/ru/articles/738304/) <br>
 [Развёртывание боевого кластера Cassandra. Часть 1](https://habr.com/ru/articles/924634/) <br>
-# DataWareHouse, DataLake, LakeHouse, MPP, OLAP, ETL
+# DS, DataWareHouse, DataLake, LakeHouse, MPP, OLAP, ETL
 [ClickHouse уже не один: StarRocks показывает, что lakehouse-аналитика может быть проще и быстрее»](https://habr.com/ru/articles/956334/) <br>
 [Нужна ли нам Lakehouse архитектура?](https://habr.com/ru/companies/otus/articles/823336/) <br>
+[CI/CD для данных и моделей на Airflow: как мы деплоим прогноз спроса в «Магните»](https://habr.com/ru/companies/magnit/articles/1061444/) <br>
 # Authentication & Authorization
 ## OAuth 2.0
 [OAuth 2.0 by Beget](https://habr.com/ru/companies/beget/articles/886874/) <br>
