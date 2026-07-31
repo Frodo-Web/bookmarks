@@ -110,6 +110,7 @@
 [Распределённая батчевая обработка данных: как мы решали проблему гонок в продакшене](https://habr.com/ru/companies/ozonbank/articles/944882/) <br>
 [Self-modifying SQL: динамическое изменение SQL-кода в процессе выполнения](https://habr.com/ru/companies/ppr/articles/947852/) <br>
 [Чем хорош Postgres 18?](https://habr.com/ru/companies/spring_aio/articles/948068/) <br>
+[Что мы находим при аудите PostgreSQL: 10 распространенных ошибок](https://habr.com/ru/companies/k2tech/articles/1064474/) <br>
 ## Clickhouse
 [Distributed table vs External Load Balancer + MergeTree to ReplicatedMergeTree transition](https://github.com/ClickHouse/ClickHouse/issues/2161) <br>
 [Sparse primary indexes](https://clickhouse.com/docs/ru/primary-indexes?ysclid=mdpnrwg3yl220917909) <br>
