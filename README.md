@@ -19,6 +19,7 @@
 [System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction) <br>
 [System Design: проектируем Rate Limiter, ограничитель запросов](https://habr.com/ru/articles/1044528/) <br>
 [System Design: проектируем Dropbox, сервис для хранения и обмена файлами](https://habr.com/ru/articles/1032184/) <br>
+[Большинство ошибок при System Design ускользает из виду](https://habr.com/ru/articles/1062842/) <br>
 ## Архитектурный анализ
 [Schemaspy - Database documentation built easy](https://github.com/schemaspy/schemaspy) <br>
 ## Миграции баз, сервисов и архитектур
