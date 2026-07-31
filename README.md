@@ -189,6 +189,8 @@
 [Understanding Istio Ambient Ztunnel and Secure Overlay](https://www.solo.io/blog/understanding-istio-ambient-ztunnel-and-secure-overlay) <br>
 ## Kubevirt
 [KubeVirt: глубокое погружение для администраторов VMware vSphere](https://habr.com/ru/companies/flant/articles/915942/) <br>
+## Virtualization
+[CPU steal time: как измерить, как доказать и когда он ни при чём](https://habr.com/ru/posts/1064560/) <br>
 ## Containers
 [Как контейнеры работают в Kubernetes](https://habr.com/ru/companies/flant/articles/913548/) <br>
 [Как работают файловые системы Linux контейнеров](https://habr.com/ru/companies/flant/articles/862252/) <br>
