@@ -48,6 +48,7 @@
 # AI and ML
 ## Agents
 [Самообучающийся ИИ-агент Hermes: что умеет и как запустить его на сервере](https://habr.com/ru/companies/amvera/articles/1061646/) <br>
+[Cloudflare Computer - Give your agent a computer](https://github.com/cloudflare/computer) <br>
 ## Code Agents
 [CodeGraph - a pre-indexed knowledge graph — symbol relationships, call graphs, and code structure](https://github.com/colbymchenry/codegraph) <br>
 ## MCP
