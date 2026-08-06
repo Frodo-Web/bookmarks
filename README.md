@@ -269,6 +269,7 @@
 [A guide to using OpenTelemetry operator for Kubernetes](https://codilime.com/blog/using-opentelemetry-operator-kubernetes/) <br>
 [otelgen - генерация логов трейсов и метрик OpenTelemetry](https://github.com/krzko/otelgen) <br>
 [Кастомный процессор для OpenTelemetry Collector. Обогащение аттрибутов спанов из csv файла](https://habr.com/ru/articles/947724/) <br>
+[OpenTelemetry как единый стандарт наблюдаемости для распределённых систем](https://habr.com/ru/companies/otus/articles/1059546/) <br>
 ## eBPF
 [eBPF developer tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial/tree/main) <br>
 [Whole-system, Cross-language OpenTelemetry eBPF profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) <br>
