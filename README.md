@@ -1,6 +1,8 @@
 # bookmarks
 # Other
 [openvpn install script](https://github.com/angristan/openvpn-install) <br>
+# Conceptions
+[API-First и микросервисы](https://habr.com/ru/companies/axenix/articles/694340/) <br>
 # Архитектура и Дизайн
 [Progressive Delivery: A/B Testing vs Canary Testing vs Blue/Green Deployment](https://stackoverflow.com/questions/62092338/canary-vs-a-b-release-strategy) <br>
 [Издержки микросервисов, которые ваш стартап может не потянуть](https://habr.com/ru/companies/ruvds/articles/909548/) <br>
