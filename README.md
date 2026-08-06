@@ -25,6 +25,7 @@
 ## System Design: Calculations
 [System Design: The Numbers Every Engineer Should Know](https://medium.com/@dcpandey0/system-design-the-numbers-every-engineer-should-know-5f17e57dd1e5) <br>
 [DataInterview: Numbers Every Engineer Should Know](https://www.datainterview.com/courses/system-design/playbook-numbers) <br>
+[System Design - Numbers You Should Know](https://eric.nz/posts/sys-design-iii-numbers/) <br>
 ## Архитектурный анализ
 [Schemaspy - Database documentation built easy](https://github.com/schemaspy/schemaspy) <br>
 ## Миграции баз, сервисов и архитектур
