@@ -172,6 +172,7 @@
 [BIG TCP приходит в Linux — теперь и для IPv4 - комменты интересные есть](https://habr.com/ru/companies/vasexperts/articles/721696/) <br>
 [Темная сторона NGFW: проблемы, о которых не говорят вендоры. Уроки неудачных проектов](https://www.securitylab.ru/analytics/563044.php) <br>
 [Что такое TLS-рукопожатие?](https://www.cloudflare.com/ru-ru/learning/ssl/what-happens-in-a-tls-handshake/) <br>
+[Внедрение HTTP/3 задерживается](https://habr.com/ru/companies/ruvds/articles/1066412/) <br>
 ### DNS
 [geoDNS с помощью Powerdns и nginx](https://habr.com/ru/articles/178727/) <br>
 ## Load Balancers, Proxy, API Gateway
