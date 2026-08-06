@@ -22,6 +22,8 @@
 [System Design: проектируем Rate Limiter, ограничитель запросов](https://habr.com/ru/articles/1044528/) <br>
 [System Design: проектируем Dropbox, сервис для хранения и обмена файлами](https://habr.com/ru/articles/1032184/) <br>
 [Большинство ошибок при System Design ускользает из виду](https://habr.com/ru/articles/1062842/) <br>
+## System Design: Calculations
+[System Design: The Numbers Every Engineer Should Know](https://medium.com/@dcpandey0/system-design-the-numbers-every-engineer-should-know-5f17e57dd1e5) <br>
 ## Архитектурный анализ
 [Schemaspy - Database documentation built easy](https://github.com/schemaspy/schemaspy) <br>
 ## Миграции баз, сервисов и архитектур
