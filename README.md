@@ -93,6 +93,8 @@
 [What is the consequence of using CGO_ENABLED=0?](https://www.reddit.com/r/golang/comments/pi97sp/what_is_the_consequence_of_using_cgo_enabled0/) <br>
 [Потоки, горутины, синхронизация и мьютексы в Go](https://habr.com/ru/articles/933464/) <br>
 [Деконструкция Go: Runtime или программа, которая запускает вашу программу. Часть 3.1](https://habr.com/ru/articles/1063194/) <br>
+## Javascript
+[Реальная и мнимая многопоточность в JS](https://habr.com/ru/articles/1064906/) <br>
 # Тестирование
 ## Функциональное тестирование
 [Автотестирование кастомного K8s CNI: как правильно входить в ха… то есть поду](https://habr.com/ru/companies/cloud_ru/articles/1060958/) <br>
