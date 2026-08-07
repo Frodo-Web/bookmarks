@@ -18,7 +18,6 @@
 [Avoiding Transactions Across Microservices](https://www.baeldung.com/transactions-across-microservices) <br>
 [Context Design Patterns](https://www.baeldung.com/cs/context-design-pattern) <br>
 ## System Design, проектирование сервисов
-[System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction) <br>
 [System Design: проектируем Rate Limiter, ограничитель запросов](https://habr.com/ru/articles/1044528/) <br>
 [System Design: проектируем Dropbox, сервис для хранения и обмена файлами](https://habr.com/ru/articles/1032184/) <br>
 [Большинство ошибок при System Design ускользает из виду](https://habr.com/ru/articles/1062842/) <br>
@@ -27,6 +26,9 @@
 [System Design: The Numbers Every Engineer Should Know](https://medium.com/@dcpandey0/system-design-the-numbers-every-engineer-should-know-5f17e57dd1e5) <br>
 [DataInterview: Numbers Every Engineer Should Know](https://www.datainterview.com/courses/system-design/playbook-numbers) <br>
 [System Design - Numbers You Should Know](https://eric.nz/posts/sys-design-iii-numbers/) <br>
+## System Design: Help resources
+[System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction) <br>
+[samwho: Visualisation Code](https://github.com/samwho/visualisations) <br>
 ## Архитектурный анализ
 [Schemaspy - Database documentation built easy](https://github.com/schemaspy/schemaspy) <br>
 ## Миграции баз, сервисов и архитектур
