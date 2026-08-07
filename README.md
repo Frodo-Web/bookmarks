@@ -3,6 +3,7 @@
 [openvpn install script](https://github.com/angristan/openvpn-install) <br>
 # Computer Science
 [Lock](https://en.wikipedia.org/wiki/Lock_(computer_science)) <br>
+[Spinlock](https://en.wikipedia.org/wiki/Spinlock) <br>
 [Lock Convoy](https://en.wikipedia.org/wiki/Lock_convoy) <br>
 [Centralized Deadlock, Distributed Deadlock, Livelock](https://en.wikipedia.org/wiki/Deadlock_(computer_science)#Livelock) <br>
 # Conceptions
