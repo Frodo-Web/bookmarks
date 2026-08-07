@@ -4,6 +4,7 @@
 # Computer Science
 [Lock](https://en.wikipedia.org/wiki/Lock_(computer_science)) <br>
 [Lock Convoy](https://en.wikipedia.org/wiki/Lock_convoy) <br>
+[Centralized Deadlock, Distributed Deadlock, Livelock](https://en.wikipedia.org/wiki/Deadlock_(computer_science)#Livelock) <br>
 # Conceptions
 [API-First и микросервисы](https://habr.com/ru/companies/axenix/articles/694340/) <br>
 # Архитектура и Дизайн
