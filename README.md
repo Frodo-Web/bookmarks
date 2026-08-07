@@ -1,6 +1,9 @@
 # bookmarks
 # Other
 [openvpn install script](https://github.com/angristan/openvpn-install) <br>
+# Computer Science
+[Lock](https://en.wikipedia.org/wiki/Lock_(computer_science)) <br>
+[Lock Convoy](https://en.wikipedia.org/wiki/Lock_convoy) <br>
 # Conceptions
 [API-First и микросервисы](https://habr.com/ru/companies/axenix/articles/694340/) <br>
 # Архитектура и Дизайн
