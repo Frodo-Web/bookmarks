@@ -6,6 +6,7 @@
 [Spinlock](https://en.wikipedia.org/wiki/Spinlock) <br>
 [Lock Convoy](https://en.wikipedia.org/wiki/Lock_convoy) <br>
 [Centralized Deadlock, Distributed Deadlock, Livelock](https://en.wikipedia.org/wiki/Deadlock_(computer_science)#Livelock) <br>
+[Sleeping barber problem - надо чекнуть и остальные проблемы внизу](https://en.wikipedia.org/wiki/Sleeping_barber_problem) <br>
 # Conceptions
 [API-First и микросервисы](https://habr.com/ru/companies/axenix/articles/694340/) <br>
 # Архитектура и Дизайн
@@ -178,13 +179,16 @@
 [Основные концепции сетевой архитектуры Kubernetes, а также CNI, Service Mesh и т.д](https://habr.com/ru/articles/886528/) <br>
 [Через тернии к звездам: настраиваем сетевую связность Kubernetes на физическом сервере в ЦОД](https://habr.com/ru/companies/cloud_ru/articles/927884/) <br>
 [Throughput vs Bandwidth](https://www.indeed.com/career-advice/career-development/throughput-vs-bandwidth) <br>
-[BIG TCP приходит в Linux — теперь и для IPv4 - комменты интересные есть](https://habr.com/ru/companies/vasexperts/articles/721696/) <br>
 [Темная сторона NGFW: проблемы, о которых не говорят вендоры. Уроки неудачных проектов](https://www.securitylab.ru/analytics/563044.php) <br>
 [Что такое TLS-рукопожатие?](https://www.cloudflare.com/ru-ru/learning/ssl/what-happens-in-a-tls-handshake/) <br>
 [Внедрение HTTP/3 задерживается](https://habr.com/ru/companies/ruvds/articles/1066412/) <br>
-[SYN packet handling in the wild](https://blog.cloudflare.com/syn-packet-handling-in-the-wild/) <br>
-[net_rx_action, tcp_collapse, tcp_rmem - The story of one latency spike](https://blog.cloudflare.com/the-story-of-one-latency-spike/) <br>
+[Network Congestion](https://en.wikipedia.org/wiki/Network_congestion) <br>
+### TCP
 [TCP global synchronization](https://en.wikipedia.org/wiki/TCP_global_synchronization) <br>
+[net_rx_action, tcp_collapse, tcp_rmem - The story of one latency spike](https://blog.cloudflare.com/the-story-of-one-latency-spike/) <br>
+[SYN packet handling in the wild](https://blog.cloudflare.com/syn-packet-handling-in-the-wild/) <br>
+[BIG TCP приходит в Linux — теперь и для IPv4 - комменты интересные есть](https://habr.com/ru/companies/vasexperts/articles/721696/) <br>
+[TCP Congestion Control](https://en.wikipedia.org/wiki/TCP_congestion_control) <br>
 ### DNS
 [geoDNS с помощью Powerdns и nginx](https://habr.com/ru/articles/178727/) <br>
 ## Load Balancers, Proxy, API Gateway
