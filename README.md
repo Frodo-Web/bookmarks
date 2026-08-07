@@ -328,7 +328,7 @@
 [Инвентаризируем контейнеры с помощью Wazuh-агента](https://habr.com/ru/companies/selectel/articles/1051876/) <br>
 ## Hash
 [Как работает хэш-функция: простое объяснение принципа работы, примеры и применение](https://www.securitylab.ru/blog/personal/xiaomite-journal/361583.php) <br>
-[Hashing, Hash maps, Buckets](https://samwho.dev/hashing) <br>
+[Hashing, Hash maps, Buckets, Collision attacks, Salt](https://samwho.dev/hashing) <br>
 # CI/CD
 [Как мы вшили нагрузочное тестирование в CI/CD, чтобы не хоронить фичи в проде глубокой ночью](https://habr.com/ru/articles/946304/) <br>
 [Многоэтапные сборки в Docker: как уменьшить образ с 1,2 ГБ до 50 МБ](https://habr.com/ru/companies/netologyru/articles/1051714/) <br>
