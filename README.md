@@ -178,6 +178,7 @@
 [Что такое TLS-рукопожатие?](https://www.cloudflare.com/ru-ru/learning/ssl/what-happens-in-a-tls-handshake/) <br>
 [Внедрение HTTP/3 задерживается](https://habr.com/ru/companies/ruvds/articles/1066412/) <br>
 [SYN packet handling in the wild](https://blog.cloudflare.com/syn-packet-handling-in-the-wild/) <br>
+[net_rx_action, tcp_collapse, tcp_rmem - The story of one latency spike](https://blog.cloudflare.com/the-story-of-one-latency-spike/) <br>
 ### DNS
 [geoDNS с помощью Powerdns и nginx](https://habr.com/ru/articles/178727/) <br>
 ## Load Balancers, Proxy, API Gateway
