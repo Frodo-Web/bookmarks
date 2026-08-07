@@ -136,6 +136,13 @@
 [Distributed table vs External Load Balancer + MergeTree to ReplicatedMergeTree transition](https://github.com/ClickHouse/ClickHouse/issues/2161) <br>
 [Sparse primary indexes](https://clickhouse.com/docs/ru/primary-indexes?ysclid=mdpnrwg3yl220917909) <br>
 [ClickHouse: сценарии, сильные стороны, лучшие практики работы в 2026 году](https://habr.com/ru/companies/vktech/articles/1061284/) <br>
+## Cassandra
+[Сassandra для бедных — пускаем в ход HDD](https://habr.com/ru/articles/738304/) <br>
+[Развёртывание боевого кластера Cassandra. Часть 1](https://habr.com/ru/articles/924634/) <br>
+## Графовые базы данных
+[Графовые базы данных на примере простых запросов](https://habr.com/ru/companies/neoflex/articles/654267/) <br>
+# Messaging & Queues
+[Как устроены очереди: визуальное объяснение](https://habr.com/ru/companies/ruvds/articles/863654/) <br>
 ## Kafka
 [Как использовать Kafka на собеседовании по System Design](https://habr.com/ru/articles/1052700/) <br>
 [Действительно ли Apache Kafka сохраняет правильный порядок сообщений?](https://habr.com/ru/companies/slurm/articles/743336/) <br>
@@ -147,11 +154,6 @@
 [Kafka Poison Pill](https://medium.com/lydtech-consulting/kafka-poison-pill-e146b87c1866) <br>
 ## RabbitMQ
 [Queues, Exchanges, and Bindings: The Core of RabbitMQ](https://medium.com/@pakhale.dipak95/queues-exchanges-and-bindings-the-core-of-rabbitmq-9533ebfc49eb) <br>
-## Cassandra
-[Сassandra для бедных — пускаем в ход HDD](https://habr.com/ru/articles/738304/) <br>
-[Развёртывание боевого кластера Cassandra. Часть 1](https://habr.com/ru/articles/924634/) <br>
-## Графовые базы данных
-[Графовые базы данных на примере простых запросов](https://habr.com/ru/companies/neoflex/articles/654267/) <br>
 # DS, DataWareHouse, DataLake, LakeHouse, MPP, OLAP, ETL
 [ClickHouse уже не один: StarRocks показывает, что lakehouse-аналитика может быть проще и быстрее»](https://habr.com/ru/articles/956334/) <br>
 [Нужна ли нам Lakehouse архитектура?](https://habr.com/ru/companies/otus/articles/823336/) <br>
