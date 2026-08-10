@@ -184,6 +184,8 @@
 [Внедрение HTTP/3 задерживается](https://habr.com/ru/companies/ruvds/articles/1066412/) <br>
 [Network Congestion](https://en.wikipedia.org/wiki/Network_congestion) <br>
 [Введение в виртуальные сетевые интерфейсы Linux](https://habr.com/ru/companies/runity/articles/1066398/) <br>
+### Network Virtualization
+[Protocol: VXLAN](https://icebale.readthedocs.io/en/latest/networks/protocols-tech/VXLAN/) <br>
 ### TCP
 [TCP global synchronization](https://en.wikipedia.org/wiki/TCP_global_synchronization) <br>
 [net_rx_action, tcp_collapse, tcp_rmem - The story of one latency spike](https://blog.cloudflare.com/the-story-of-one-latency-spike/) <br>
