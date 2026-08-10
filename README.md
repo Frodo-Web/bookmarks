@@ -194,6 +194,7 @@
 [SYN packet handling in the wild](https://blog.cloudflare.com/syn-packet-handling-in-the-wild/) <br>
 [BIG TCP приходит в Linux — теперь и для IPv4 - комменты интересные есть](https://habr.com/ru/companies/vasexperts/articles/721696/) <br>
 [TCP Congestion Control](https://en.wikipedia.org/wiki/TCP_congestion_control) <br>
+[Конспект по TCP](https://icebale.readthedocs.io/en/latest/networks/protocols-tech/TCP/) <br>
 ### DNS
 [geoDNS с помощью Powerdns и nginx](https://habr.com/ru/articles/178727/) <br>
 ## Load Balancers, Proxy, API Gateway
