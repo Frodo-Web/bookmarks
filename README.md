@@ -184,6 +184,8 @@
 [Внедрение HTTP/3 задерживается](https://habr.com/ru/companies/ruvds/articles/1066412/) <br>
 [Network Congestion](https://en.wikipedia.org/wiki/Network_congestion) <br>
 [Введение в виртуальные сетевые интерфейсы Linux](https://habr.com/ru/companies/runity/articles/1066398/) <br>
+### Network Architecture & Topology
+[Проектирование сетей в датацентрах](https://icebale.readthedocs.io/en/latest/networks/protocols-tech/DC/) <br>
 ### Network Virtualization
 [Protocol: VXLAN](https://icebale.readthedocs.io/en/latest/networks/protocols-tech/VXLAN/) <br>
 ### TCP
