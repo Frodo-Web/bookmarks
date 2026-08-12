@@ -64,6 +64,8 @@
 ## Agents
 [Самообучающийся ИИ-агент Hermes: что умеет и как запустить его на сервере](https://habr.com/ru/companies/amvera/articles/1061646/) <br>
 [Cloudflare Computer - Give your agent a computer](https://github.com/cloudflare/computer) <br>
+[Diagram Design - рисование flowchart, sequence, architecture, state machine etc..](https://github.com/cathrynlavery/diagram-design) <br>
+[Agency Agents - целая система из преднастроек для разных ролей: Software Architect, SRE, Platform Engineer, etc..](https://github.com/msitarzewski/agency-agents) <br>
 ## Code Agents
 [CodeGraph - a pre-indexed knowledge graph — symbol relationships, call graphs, and code structure](https://github.com/colbymchenry/codegraph) <br>
 ## MCP
