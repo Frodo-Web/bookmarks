@@ -6,6 +6,7 @@
 [Spinlock](https://en.wikipedia.org/wiki/Spinlock) <br>
 [Lock Convoy](https://en.wikipedia.org/wiki/Lock_convoy) <br>
 [Centralized Deadlock, Distributed Deadlock, Livelock](https://en.wikipedia.org/wiki/Deadlock_(computer_science)#Livelock) <br>
+[Cache stampede/Dog piling](https://en.wikipedia.org/wiki/Cache_stampede) <br>
 [Sleeping barber problem - надо чекнуть и остальные проблемы внизу](https://en.wikipedia.org/wiki/Sleeping_barber_problem) <br>
 # Conceptions
 [API-First и микросервисы](https://habr.com/ru/companies/axenix/articles/694340/) <br>
