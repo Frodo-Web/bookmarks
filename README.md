@@ -153,6 +153,7 @@
 [Графовые базы данных на примере простых запросов](https://habr.com/ru/companies/neoflex/articles/654267/) <br>
 # Messaging & Queues
 [Как устроены очереди: визуальное объяснение](https://habr.com/ru/companies/ruvds/articles/863654/) <br>
+[Очереди — что это, зачем и как использовать? Посмотрим на возможности AWS SQS](https://habr.com/ru/articles/457068/) <br>
 ## Kafka
 [Как использовать Kafka на собеседовании по System Design](https://habr.com/ru/articles/1052700/) <br>
 [Действительно ли Apache Kafka сохраняет правильный порядок сообщений?](https://habr.com/ru/companies/slurm/articles/743336/) <br>
