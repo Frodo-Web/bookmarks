@@ -9,6 +9,7 @@
 [Cache stampede/Dog piling](https://en.wikipedia.org/wiki/Cache_stampede) <br>
 [Thrashing](https://en.wikipedia.org/wiki/Thrashing_(computer_science)) <br>
 [Cache coherence](https://en.wikipedia.org/wiki/Cache_coherence) <br>
+[Consistency model](https://en.wikipedia.org/wiki/Consistency_model) <br>
 [Sleeping barber problem - надо чекнуть и остальные проблемы внизу](https://en.wikipedia.org/wiki/Sleeping_barber_problem) <br>
 # Conceptions
 [API-First и микросервисы](https://habr.com/ru/companies/axenix/articles/694340/) <br>
