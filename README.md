@@ -192,6 +192,7 @@
 [Network Congestion](https://en.wikipedia.org/wiki/Network_congestion) <br>
 [Введение в виртуальные сетевые интерфейсы Linux](https://habr.com/ru/companies/runity/articles/1066398/) <br>
 [MTU, Frame Size и Jumbo Frames: анатомия сетевого пакета для инженера](https://habr.com/ru/companies/yadro/articles/1055968/) <br>
+[TCP tuning arcticle on wikipedia](https://en.wikipedia.org/wiki/TCP_tuning) <br>
 ### Network Architecture & Topology
 [Проектирование сетей в датацентрах](https://icebale.readthedocs.io/en/latest/networks/protocols-tech/DC/) <br>
 ### Network Virtualization
