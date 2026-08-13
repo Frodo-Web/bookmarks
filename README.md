@@ -8,6 +8,7 @@
 [Centralized Deadlock, Distributed Deadlock, Livelock](https://en.wikipedia.org/wiki/Deadlock_(computer_science)#Livelock) <br>
 [Cache stampede/Dog piling](https://en.wikipedia.org/wiki/Cache_stampede) <br>
 [Thrashing](https://en.wikipedia.org/wiki/Thrashing_(computer_science)) <br>
+[Cache coherence](https://en.wikipedia.org/wiki/Cache_coherence) <br>
 [Sleeping barber problem - надо чекнуть и остальные проблемы внизу](https://en.wikipedia.org/wiki/Sleeping_barber_problem) <br>
 # Conceptions
 [API-First и микросервисы](https://habr.com/ru/companies/axenix/articles/694340/) <br>
