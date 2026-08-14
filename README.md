@@ -213,6 +213,7 @@
 [Балансировка нагрузки: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/955202/) <br>
 [Внедрение API Gateway: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/950838/) <br>
 [Server Side Includes (SSI) & Edge Side Includes (ESI)](https://medium.com/@yasmeena_rezk/server-side-includes-ssi-edge-side-includes-esi-13a8fc042e81) <br>
+[SamWho: Load Balancing and its types explained (Round Robin, Queues, Least connections, PEWMA etc..](https://samwho.dev/load-balancing) <br>
 ### CDN
 [Как сделать и настроить свой CDN](https://habr.com/ru/articles/810241/) <br>
 [Создаём и настраиваем собственную CDN](https://habr.com/ru/companies/ruvds/articles/709548/) <br>
