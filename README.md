@@ -206,6 +206,8 @@
 [Конспект по TCP](https://icebale.readthedocs.io/en/latest/networks/protocols-tech/TCP/) <br>
 ### DNS
 [geoDNS с помощью Powerdns и nginx](https://habr.com/ru/articles/178727/) <br>
+### gRPC
+[Why gRPC Uses HTTP2](https://arpitbhayani.me/blogs/grpc-http2) <br>
 ## Load Balancers, Proxy, API Gateway
 [L4, L7 load balancing difference](https://www.vmware.com/topics/layer-4-load-balancing) <br>
 [Nginx Lua Prometheus](https://github.com/knyar/nginx-lua-prometheus) <br>
